@@ -1,0 +1,19 @@
+.vis-treemap {
+  font-size: 0.625rem;
+}
+
+.vis-treemap .cell-rect {
+  stroke: #fff;
+}
+
+.vis-treemap .cell-rect--root {
+  fill: #fff;
+}
+
+.vis-treemap .cell-label--root {
+  font-weight: bold;
+}
+
+.vis-treemap .cell-label__value {
+  fill-opacity: 0.7;
+}

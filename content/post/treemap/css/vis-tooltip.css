@@ -1,0 +1,42 @@
+.vis-tooltip-parent {
+  position: relative;
+}
+
+.vis-tooltip {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 0.875rem;
+  background-color: #fff;
+  max-width: 320px;
+  border-radius: 0.25rem;
+  padding: 1rem;
+  box-shadow: 0 3px 5px -1px rgba(0, 0, 0, 0.2),
+    0 6px 10px 0 rgba(0, 0, 0, 0.14), 0 1px 18px 0 rgba(0, 0, 0, 0.12);
+  pointer-events: none;
+  opacity: 0;
+}
+
+.vis-tooltip.is-visible {
+  pointer-events: all;
+  opacity: 1;
+}
+
+.vis-tooltip table {
+  border-collapse: collapse;
+}
+
+.vis-tooltip td {
+  vertical-align: top;
+}
+
+.vis-tooltip .td--name {
+  font-weight: bold;
+}
+
+.vis-tooltip .td--url {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: break-word;
+  hyphens: auto;
+}

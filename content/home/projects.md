@@ -27,14 +27,18 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Current Research
+    tag: Current Research
+  - name: Past Research
+    tag: Past Research
+  - name: Digital Humanities
+    tag: Digital Humanities
+  - name: Books
+    tag: Books
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: '1'
 
   # Toggle between the various page layout types.
   #   1 = List

@@ -1,0 +1,929 @@
+entry_id,page,folio,length,wc-m,wordcount,% marginal,continued,categories,url,heading_tl
+001r_1,1,1,292,343,50,95.20547945,0,lists,https://edition640.makingandknowing.org/#/folios/1r/f/1r/tl,[List of names]
+001r_2,1,1,133,158,19,96.2406015,0,lists,https://edition640.makingandknowing.org/#/folios/1r/f/1r/tl,[List]
+001r_3,1,1,1502,1437,202,97.93608522,0,lists,https://edition640.makingandknowing.org/#/folios/1r/f/1r/tl,[List of books and authors]
+001r_4,1,1,94,139,12,81.91489362,0,lists,https://edition640.makingandknowing.org/#/folios/1r/f/1r/tl,[List of books]
+001v_1,2,1,392,408,72,0,0,medicine,https://edition640.makingandknowing.org/#/folios/1v/f/1v/tl,For loosening the belly
+002r_1,3,2,142,158,20,0,0,lists,https://edition640.makingandknowing.org/#/folios/2r/f/2r/tl,Books to recover
+002r_2,3,2,87,97,16,0,0,medicine,https://edition640.makingandknowing.org/#/folios/2r/f/2r/tl,Against pains
+002v_1,4,2,98,110,14,0,0,lists,https://edition640.makingandknowing.org/#/folios/2v/f/2v/tl,[List of books]
+002v_2,4,2,388,475,79,0,0,stones,https://edition640.makingandknowing.org/#/folios/2v/f/2v/tl,Emeralds of Brissac
+002v_3,4,2,107,131,22,0,0,stones,https://edition640.makingandknowing.org/#/folios/2v/f/2v/tl,| Sapphire
+003r_1,5,3,1882,1951,341,63.7088204,0,stones,https://edition640.makingandknowing.org/#/folios/3r/f/3r/tl,Counterfeit coral
+003r_2,5,3,1289,1426,234,37.47090768,0,varnish,https://edition640.makingandknowing.org/#/folios/3r/f/3r/tl,Varnish for panels
+003r_3,5,3,1526,1665,276,14.87549148,69.79030144,varnish,https://edition640.makingandknowing.org/#/folios/3r/f/3r/tl,Thick varnish for planks
+003v_1,6,3,459,476,82,0,0,varnish,https://edition640.makingandknowing.org/#/folios/3v/f/3v/tl,For varnishing
+004r_1,7,4,1491,1632,260,10.86519115,0,varnish,https://edition640.makingandknowing.org/#/folios/4r/f/4r/tl,Varnish of spike lavender oil
+004r_2,7,4,558,593,101,6.451612903,0,varnish,https://edition640.makingandknowing.org/#/folios/4r/f/4r/tl,For removing varnish from an old panel that is yellowish & varnishing it anew
+004v_1,8,4,1369,1513,258,45.21548576,0,varnish,https://edition640.makingandknowing.org/#/folios/4v/f/4v/tl,"Black varnish for sword guard, bands for trunks, &c"
+004v_2,8,4,329,341,63,0,0,varnish,https://edition640.makingandknowing.org/#/folios/4v/f/4v/tl,"Black varnish without fire, without disassembling the harnesses or removing the bands from trunks"
+004v_3,8,4,816,844,150,0,25.85784314,varnish,https://edition640.makingandknowing.org/#/folios/4v/f/4v/tl,Varnish of iron engravers
+005r_1,9,5,1443,1542,252,0.069300069,0,casting,https://edition640.makingandknowing.org/#/folios/5r/f/5r/tl,Steel mirrors
+005r_2,9,5,1835,1907,334,0,79.1280654,practical optics,https://edition640.makingandknowing.org/#/folios/5r/f/5r/tl,Concave mirrors
+005v_1,10,5,492,521,91,0,0,metal process,https://edition640.makingandknowing.org/#/folios/5v/f/5v/tl,For bronzing in yellow and white
+006r_1,11,6,2036,2123,380,0,0,painting,https://edition640.makingandknowing.org/#/folios/6r/f/6r/tl,For laying down and seating burnished gold and giving red or green or blue
+006v_1,12,6,1280,1384,232,9.6875,0,glass process,https://edition640.makingandknowing.org/#/folios/6v/f/6v/tl,For ga cach cages
+006v_2,12,6,610,652,117,0,0,decorative,https://edition640.makingandknowing.org/#/folios/6v/f/6v/tl,"For stampings to embellish and encrust or cover the edges of mirrors, the tops of chests, or the friezes of bed valances"
+007r_1,13,7,1074,1187,210,0,0,painting,https://edition640.makingandknowing.org/#/folios/7r/f/7r/tl,For gilding with gold color and tinsel
+007r_2,13,7,369,393,66,0,0,decorative,https://edition640.makingandknowing.org/#/folios/7r/f/7r/tl,For coloring stamped trunks
+007r_3,13,7,144,150,28,0,0,stones,https://edition640.makingandknowing.org/#/folios/7r/f/7r/tl,Doublets
+007r_4,13,7,593,661,108,24.95784148,0,tool,https://edition640.makingandknowing.org/#/folios/7r/f/7r/tl,Fish glue or isinglass and mouth glue
+007v_1,14,7,355,365,60,0,0,wood and its coloring,https://edition640.makingandknowing.org/#/folios/7v/f/7v/tl,For giving the color of all kinds of metals to wood & other things
+007v_2,14,7,448,472,78,0,0,medicine,https://edition640.makingandknowing.org/#/folios/7v/f/7v/tl,Against windy colic
+007v_3,14,7,523,563,89,0,0,medicine,https://edition640.makingandknowing.org/#/folios/7v/f/7v/tl,For relieving the pain of G.
+007v_4,14,7,250,265,34,0,0,medicine,https://edition640.makingandknowing.org/#/folios/7v/f/7v/tl,Against gonorrhea
+008r_1,15,8,184,205,33,0,0,painting,https://edition640.makingandknowing.org/#/folios/8r/f/8r/tl,Lettering of gold on paper
+008r_2,15,8,160,181,28,0,0,arms and armor,https://edition640.makingandknowing.org/#/folios/8r/f/8r/tl,For bursting grenades and giving force to fireworks
+008r_3,15,8,499,527,93,0,0,arms and armor,https://edition640.makingandknowing.org/#/folios/8r/f/8r/tl,Tempering of balls for piercing armor of proof
+008r_4,15,8,223,235,39,0,0,arms and armor,https://edition640.makingandknowing.org/#/folios/8r/f/8r/tl,For making a breach in a wall by night
+008v_1,16,8,140,152,25,0,0,stones,https://edition640.makingandknowing.org/#/folios/8v/f/8v/tl,Polishing of the balas ruby
+008v_2,16,8,354,377,68,0,0,painting,https://edition640.makingandknowing.org/#/folios/8v/f/8v/tl,Or and argent moulu
+008v_3,16,8,307,336,55,0,0,stones,https://edition640.makingandknowing.org/#/folios/8v/f/8v/tl,Polishing of stones
+008v_4,16,8,206,240,36,0,0,casting,https://edition640.makingandknowing.org/#/folios/8v/f/8v/tl,M[illegible]ixture of Pewterers
+008v_5,16,8,511,569,99,0,0,casting,https://edition640.makingandknowing.org/#/folios/8v/f/8v/tl,Perfect amalgam
+009r_1,17,9,841,894,157,0,0,cultivation,https://edition640.makingandknowing.org/#/folios/9r/f/9r/tl,Plowman
+009r_2,17,9,125,140,20,0,0,painting,https://edition640.makingandknowing.org/#/folios/9r/f/9r/tl,Painter
+009r_3,17,9,596,634,109,0,0,merchants,https://edition640.makingandknowing.org/#/folios/9r/f/9r/tl,Merchant
+009v_1,18,9,735,779,126,0,0,painting,https://edition640.makingandknowing.org/#/folios/9v/f/9v/tl,Painter
+009v_2,18,9,179,195,29,0,0,merchants,https://edition640.makingandknowing.org/#/folios/9v/f/9v/tl,Merchant
+009v_3,18,9,646,723,142,10.99071207,0,merchants,https://edition640.makingandknowing.org/#/folios/9v/f/9v/tl,Waste book
+010r_1,19,10,1381,1496,240,52.42577842,0,stones,https://edition640.makingandknowing.org/#/folios/10r/f/10r/tl,Counterfeit jasper
+010r_2,19,10,163,174,32,0,0,painting,https://edition640.makingandknowing.org/#/folios/10r/f/10r/tl,Stil de grain yellow
+010r_3,19,10,167,186,27,0,0,decorative,https://edition640.makingandknowing.org/#/folios/10r/f/10r/tl,Roses
+010r_4,19,10,274,299,49,0,0,painting,https://edition640.makingandknowing.org/#/folios/10r/f/10r/tl,Purple color
+010r_5,19,10,729,792,135,0,0,metal process,https://edition640.makingandknowing.org/#/folios/10r/f/10r/tl,Powder for hourglasses
+010v_1,20,10,532,584,93,0,0,painting,https://edition640.makingandknowing.org/#/folios/10v/f/10v/tl,For painting in oil on taffeta without the oil running
+010v_2,20,10,211,224,38,0,0,painting,https://edition640.makingandknowing.org/#/folios/10v/f/10v/tl,Seat for gold leaf on parchment or paper
+010v_3,20,10,114,129,21,0,0,metal process,https://edition640.makingandknowing.org/#/folios/10v/f/10v/tl,For cleaning gold leaf applied to iron
+010v_4,20,10,356,353,62,0,0,painting,https://edition640.makingandknowing.org/#/folios/10v/f/10v/tl,For whitening ceruse
+011r_1,21,11,2302,2521,422,0,0,painting,https://edition640.makingandknowing.org/#/folios/11r/f/11r/tl,Painting esmail d’azur in oil
+011v_1,22,11,227,242,40,0,0,metal process,https://edition640.makingandknowing.org/#/folios/11v/f/11v/tl,Color of Damascus steel on knives
+011v_2,22,11,163,168,29,0,0,medicine,https://edition640.makingandknowing.org/#/folios/11v/f/11v/tl,For getting rid of the redness of eyes or bruising
+011v_3,22,11,156,177,31,0,0,painting,https://edition640.makingandknowing.org/#/folios/11v/f/11v/tl,For coating with or mat
+011v_4,22,11,601,635,109,0,0,tool,https://edition640.makingandknowing.org/#/folios/11v/f/11v/tl,For diamond points for engraving
+011v_5,22,11,206,244,43,0,0,stones,https://edition640.makingandknowing.org/#/folios/11v/f/11v/tl,Polishing wheel of copper
+012r_1,23,12,678,746,130,55.30973451,0,casting,https://edition640.makingandknowing.org/#/folios/12r/f/12r/tl,For molding sulfur
+012r_2,23,12,625,666,115,28,0,casting,https://edition640.makingandknowing.org/#/folios/12r/f/12r/tl,Chimolée
+012r_3,23,12,555,600,106,0,0,casting,https://edition640.makingandknowing.org/#/folios/12r/f/12r/tl,Paper
+012r_4,23,12,687,752,126,20.52401747,0,casting,https://edition640.makingandknowing.org/#/folios/12r/f/12r/tl,Plaster
+012v_1,24,12,369,394,63,20.05420054,0,casting,https://edition640.makingandknowing.org/#/folios/12v/f/12v/tl,Molding stucco promptly
+012v_2,24,12,216,226,36,0,0,stones,https://edition640.makingandknowing.org/#/folios/12v/f/12v/tl,Cleaning yellow pearls
+012v_3,24,12,2153,2315,377,0,39.15466791,stones,https://edition640.makingandknowing.org/#/folios/12v/f/12v/tl,For whitening enilanroc
+013r_1,25,13,290,328,52,0,0,painting,https://edition640.makingandknowing.org/#/folios/13r/f/13r/tl,Flesh color from arsenic
+013r_2,25,13,189,193,34,0,0,dyeing,https://edition640.makingandknowing.org/#/folios/13r/f/13r/tl,For dyeing
+013r_3,25,13,207,229,38,0,0,stones,https://edition640.makingandknowing.org/#/folios/13r/f/13r/tl,Polishing of stones
+013r_4,25,13,471,503,86,0,35.24416136,tool,https://edition640.makingandknowing.org/#/folios/13r/f/13r/tl,Fine sieves of raw silk
+013v_1,26,13,524,564,90,0,0,painting,https://edition640.makingandknowing.org/#/folios/13v/f/13v/tl,For knowing the good cendrée of azure for oil
+013v_2,26,13,145,155,23,0,0,stones,https://edition640.makingandknowing.org/#/folios/13v/f/13v/tl,Whitening of pearls
+013v_3,26,13,321,342,59,0,0,medicine,https://edition640.makingandknowing.org/#/folios/13v/f/13v/tl,Toadstone
+013v_4,26,13,145,183,29,0,0,casting,https://edition640.makingandknowing.org/#/folios/13v/f/13v/tl,Snakes
+013v_5,26,13,162,184,24,0,0,tool,https://edition640.makingandknowing.org/#/folios/13v/f/13v/tl,Candles
+014r_1,27,14,2209,2328,390,0,0,household and daily life,https://edition640.makingandknowing.org/#/folios/14r/f/14r/tl,For walls of earth and rustic construction
+015r_1,29,15,694,741,125,0,0,dyeing,https://edition640.makingandknowing.org/#/folios/15r/f/15r/tl,Damasked cloth
+015r_2,29,15,1028,1080,194,2.918287938,0,casting,https://edition640.makingandknowing.org/#/folios/15r/f/15r/tl,Foundry casting
+015r_3,29,15,427,456,75,0,0,casting,https://edition640.makingandknowing.org/#/folios/15r/f/15r/tl,Casting gold and silver
+015v_1,30,15,202,240,36,0,0,wood and its coloring,https://edition640.makingandknowing.org/#/folios/15v/f/15v/tl,Tablets
+015v_2,30,15,201,224,38,0,0,practical optics,https://edition640.makingandknowing.org/#/folios/15v/f/15v/tl,"Letter, more legible"
+015v_3,30,15,272,283,51,0,0,decorative,https://edition640.makingandknowing.org/#/folios/15v/f/15v/tl,Stamping
+015v_4,30,15,282,301,46,0,0,tool,https://edition640.makingandknowing.org/#/folios/15v/f/15v/tl,Softening horn
+015v_5,30,15,291,333,54,0,0,medicine,https://edition640.makingandknowing.org/#/folios/15v/f/15v/tl,Ears
+015v_6,30,15,323,354,62,0,0,medicine,https://edition640.makingandknowing.org/#/folios/15v/f/15v/tl,Toothache
+016r_1,31,16,3912,4136,737,16.87116564,27.35173824,metal process,https://edition640.makingandknowing.org/#/folios/16r/f/16r/tl,Founding of soft iron
+016v_1,32,16,107,111,18,0,0,medicine,https://edition640.makingandknowing.org/#/folios/16v/f/16v/tl,Against Go.
+016v_2,32,16,172,184,33,0,0,medicine,https://edition640.makingandknowing.org/#/folios/16v/f/16v/tl,For removing fine hair from the forehead
+016v_3,32,16,229,243,41,0,0,dyeing,https://edition640.makingandknowing.org/#/folios/16v/f/16v/tl,Silk
+016v_4,32,16,171,177,29,0,0,preserving,https://edition640.makingandknowing.org/#/folios/16v/f/16v/tl,Keeping oranges
+016v_5,32,16,542,573,100,0,0,household and daily life,https://edition640.makingandknowing.org/#/folios/16v/f/16v/tl,Candles
+017r_1,33,17,14562,15847,2721,25.05150391,78.23101222,arms and armor,https://edition640.makingandknowing.org/#/folios/17r/f/17r/tl,On the gunner
+019v_1,38,19,726,801,138,0,0,painting,https://edition640.makingandknowing.org/#/folios/19v/f/19v/tl,  Mathematical figures without ruler and compass
+019v_2,38,19,287,328,52,0,0,painting,https://edition640.makingandknowing.org/#/folios/19v/f/19v/tl,For writing as well from the left as from the right
+019v_3,38,19,528,561,96,0,0,medicine,https://edition640.makingandknowing.org/#/folios/19v/f/19v/tl,Clysters
+020r_1,39,20,1507,1660,288,0,0,household and daily life,https://edition640.makingandknowing.org/#/folios/20r/f/20r/tl,For making millas 
+020r_2,39,20,966,1030,181,10.76604555,0,glass process,https://edition640.makingandknowing.org/#/folios/20r/f/20r/tl,Glassworker
+020v_1,40,20,204,214,37,0,0,medicine,https://edition640.makingandknowing.org/#/folios/20v/f/20v/tl,For whitening the face
+020v_2,40,20,462,531,78,0,0,medicine,https://edition640.makingandknowing.org/#/folios/20v/f/20v/tl,"Against winds, colic, &c"
+020v_3,40,20,241,265,44,0,0,cultivation,https://edition640.makingandknowing.org/#/folios/20v/f/20v/tl,Skirret root
+020v_4,40,20,152,168,25,0,0,medicine,https://edition640.makingandknowing.org/#/folios/20v/f/20v/tl,Against burn
+020v_5,40,20,209,249,33,0,0,household and daily life,https://edition640.makingandknowing.org/#/folios/20v/f/20v/tl,Common saying
+020v_6,40,20,257,281,47,0,0,medicine,https://edition640.makingandknowing.org/#/folios/20v/f/20v/tl,A form of regimen
+021r_1,41,21,944,1013,181,0,0,arms and armor,https://edition640.makingandknowing.org/#/folios/21r/f/21r/tl,Gunner
+021r_2,41,21,1760,1902,317,5.965909091,31.36363636,arms and armor,https://edition640.makingandknowing.org/#/folios/21r/f/21r/tl,For firing a cannon at night
+021v_1,42,21,724,763,139,0,0,arms and armor,https://edition640.makingandknowing.org/#/folios/21v/f/21v/tl,For unspiking a cannon
+021v_2,42,21,767,841,140,0,0,arms and armor,https://edition640.makingandknowing.org/#/folios/21v/f/21v/tl,Defense of a town
+022r_1,43,22,100,142,21,41,0,arms and armor,https://edition640.makingandknowing.org/#/folios/22r/f/22r/tl,"Cannon ball, weighing 40 lb, having 12 lines, king's foot"
+022v_1,44,22,1677,1867,315,0.059630292,0,arms and armor,https://edition640.makingandknowing.org/#/folios/22v/f/22v/tl,Orgues
+023r_1,45,23,4309,4643,802,17.05732188,34.69482479,arms and armor,https://edition640.makingandknowing.org/#/folios/23r/f/23r/tl,[On petards]
+023v_1,46,23,530,581,104,0,0,arms and armor,https://edition640.makingandknowing.org/#/folios/23v/f/23v/tl,[On petards]
+024r_1,47,24,1975,2115,365,0,0,arms and armor,https://edition640.makingandknowing.org/#/folios/24r/f/24r/tl,Grenades
+024v_1,48,24,4453,4911,810,11.47540984,50.50527734,arms and armor,https://edition640.makingandknowing.org/#/folios/24v/f/24v/tl,For bringing a cannon over land
+024v_2,48,24,272,450,52,93.75,0,arms and armor,https://edition640.makingandknowing.org/#/folios/24v/f/24v/tl,Fowlers
+024v_3,48,24,238,384,44,93.69747899,0,arms and armor,https://edition640.makingandknowing.org/#/folios/24v/f/24v/tl,A steel touch-hole
+024v_4,48,24,99,127,19,85.85858586,0,arms and armor,https://edition640.makingandknowing.org/#/folios/24v/f/24v/tl,A touch-hole at the level
+025v_1,50,25,2268,2391,404,0,0,arms and armor,https://edition640.makingandknowing.org/#/folios/25v/f/25v/tl,Gunner
+026r_1,51,26,110,139,19,85.45454545,0,arms and armor,https://edition640.makingandknowing.org/#/folios/26r/f/26r/tl,Cannonball
+026r_2,51,26,467,503,88,0,0,arms and armor,https://edition640.makingandknowing.org/#/folios/26r/f/26r/tl,Petard
+026v_1,52,26,20,37,3,0,0,arms and armor,https://edition640.makingandknowing.org/#/folios/26v/f/26v/tl,Culverin ball
+027r_1,53,27,19,32,3,0,0,arms and armor,https://edition640.makingandknowing.org/#/folios/27r/f/27r/tl,Bastarde ball
+027r_2,53,27,17,26,3,0,0,arms and armor,https://edition640.makingandknowing.org/#/folios/27r/f/27r/tl,Medium ball
+027r_3,53,27,19,32,3,0,0,arms and armor,https://edition640.makingandknowing.org/#/folios/27r/f/27r/tl,Field piece
+027v_1,54,27,12,21,1,0,0,arms and armor,https://edition640.makingandknowing.org/#/folios/27v/f/27v/tl,Falconet
+027v_2,54,27,62,109,10,0,0,arms and armor,https://edition640.makingandknowing.org/#/folios/27v/f/27v/tl,"Falconet of 4 quintals, alternatively passe- volant, is 8 pans long"
+027v_3,54,27,32,68,7,0,0,arms and armor,https://edition640.makingandknowing.org/#/folios/27v/f/27v/tl,"3 quintals, is 9 pans long"
+027v_4,54,27,63,120,13,0,0,arms and armor,https://edition640.makingandknowing.org/#/folios/27v/f/27v/tl,"2 quintals, is one cane long, which is 8 Montpellier pans"
+027v_5,54,27,33,67,7,0,0,arms and armor,https://edition640.makingandknowing.org/#/folios/27v/f/27v/tl,"1 quintal, is six pans and a half"
+027v_6,54,27,39,66,9,0,0,arms and armor,https://edition640.makingandknowing.org/#/folios/27v/f/27v/tl,1 quintal and a half is 7 pans and a half
+027v_7,54,27,44,86,11,0,0,arms and armor,https://edition640.makingandknowing.org/#/folios/27v/f/27v/tl,"Musket, of 60 lb, is 5 pans and a half or 6"
+027v_8,54,27,35,63,7,0,0,arms and armor,https://edition640.makingandknowing.org/#/folios/27v/f/27v/tl,5 quintals is eleven pans and a half
+028r_1,55,28,135,149,23,74.81481481,0,arms and armor,https://edition640.makingandknowing.org/#/folios/28r/f/28r/tl,The measure of the caliber of pieces
+028v_1,56,28,2360,2634,439,19.27966102,0,casting,https://edition640.makingandknowing.org/#/folios/28v/f/28v/tl,Pewterers
+029r_1,57,29,2576,2772,480,2.096273292,0,casting,https://edition640.makingandknowing.org/#/folios/29r/f/29r/tl,Stucco for molding
+029v_1,58,29,189,216,36,0,0,varnish,https://edition640.makingandknowing.org/#/folios/29v/f/29v/tl,Color of gold without gold on silver
+029v_2,58,29,276,298,51,0,0,painting,https://edition640.makingandknowing.org/#/folios/29v/f/29v/tl,Layer of burnished gold on paper
+029v_3,58,29,73,84,15,0,0,household and daily life,https://edition640.makingandknowing.org/#/folios/29v/f/29v/tl,Removing stains
+029v_4,58,29,130,141,23,0,0,painting,https://edition640.makingandknowing.org/#/folios/29v/f/29v/tl,Seat for gold
+029v_5,58,29,119,133,18,0,0,painting,https://edition640.makingandknowing.org/#/folios/29v/f/29v/tl,Extraction of oils
+029v_6,58,29,1605,1766,295,40.87227414,0,painting,https://edition640.makingandknowing.org/#/folios/29v/f/29v/tl,Dragon’s blood
+030r_1,59,30,260,280,49,0,0,metal process,https://edition640.makingandknowing.org/#/folios/30r/f/30r/tl,Lead
+030r_2,59,30,3242,3437,575,0,58.91425046,casting,https://edition640.makingandknowing.org/#/folios/30r/f/30r/tl,Pewterer
+031r_1,61,31,146,167,24,0,0,cultivation,https://edition640.makingandknowing.org/#/folios/31r/f/31r/tl,New vine
+031r_2,61,31,253,282,40,0,0,metal process,https://edition640.makingandknowing.org/#/folios/31r/f/31r/tl,Colored waters
+031r_3,61,31,367,397,69,0,0,varnish,https://edition640.makingandknowing.org/#/folios/31r/f/31r/tl,Varnish resistant to water
+031r_4,61,31,173,192,33,0,0,painting,https://edition640.makingandknowing.org/#/folios/31r/f/31r/tl,Fruit made from sugar
+031v_1,62,31,332,369,59,0,0,painting,https://edition640.makingandknowing.org/#/folios/31v/f/31v/tl,Painter
+031v_2,62,31,142,163,25,0,0,painting,https://edition640.makingandknowing.org/#/folios/31v/f/31v/tl,Brushes
+031v_3,62,31,144,161,24,0,0,painting,https://edition640.makingandknowing.org/#/folios/31v/f/31v/tl,Painting from nature
+031v_4,62,31,518,560,95,0,0,painting,https://edition640.makingandknowing.org/#/folios/31v/f/31v/tl,Painting on glass
+032r_1,63,32,394,416,66,0,0,arms and armor,https://edition640.makingandknowing.org/#/folios/32r/f/32r/tl,The body of the cuirass
+032r_2,63,32,339,361,56,0,0,painting,https://edition640.makingandknowing.org/#/folios/32r/f/32r/tl,Painter
+032r_3,63,32,702,765,129,0,0,painting,https://edition640.makingandknowing.org/#/folios/32r/f/32r/tl,For layering gold in distemper
+032v_1,64,32,847,921,154,0,0,dyeing,https://edition640.makingandknowing.org/#/folios/32v/f/32v/tl,Mat maker
+032v_2,64,32,418,472,71,0,0,glass process,https://edition640.makingandknowing.org/#/folios/32v/f/32v/tl,Glassworker
+032v_3,64,32,888,994,172,3.265765766,0,casting,https://edition640.makingandknowing.org/#/folios/32v/f/32v/tl,Founder
+033r_1,65,33,1425,1604,277,14.31578947,0,tricks and sleight of hand,https://edition640.makingandknowing.org/#/folios/33r/f/33r/tl,Knife for cutting the nose or a finger
+033r_2,65,33,730,786,127,0,0,tricks and sleight of hand,https://edition640.makingandknowing.org/#/folios/33r/f/33r/tl,X For relighting an extinguished candle between your hands without blowing
+033v_1,66,33,582,636,114,0,0,tricks and sleight of hand,https://edition640.makingandknowing.org/#/folios/33v/f/33v/tl,For making it seem that to someone that he has a piece of silver on his forehead
+033v_2,66,33,1552,1687,313,17.33247423,0,tricks and sleight of hand,https://edition640.makingandknowing.org/#/folios/33v/f/33v/tl,For making blood or wine issue from someone’s forehead or from a wall
+034r_1,67,34,220,243,40,0,0,tricks and sleight of hand,https://edition640.makingandknowing.org/#/folios/34r/f/34r/tl,"For telling someone that by putting holding a finger to his forehead, you will prevent him from exiting a chamber"
+034r_2,67,34,337,387,65,0,0,tricks and sleight of hand,https://edition640.makingandknowing.org/#/folios/34r/f/34r/tl,"X Wager someone e that walking to a certain place and back, he cannot say boot without spur four times in a row"
+034r_3,67,34,114,125,21,0,0,tricks and sleight of hand,https://edition640.makingandknowing.org/#/folios/34r/f/34r/tl,For making a candlestick hold to the wall without making a hole in it
+034r_4,67,34,212,232,41,0,0,tricks and sleight of hand,https://edition640.makingandknowing.org/#/folios/34r/f/34r/tl,X How not to break a glass with a log or a large stick
+034r_5,67,34,283,304,49,0,0,tricks and sleight of hand,https://edition640.makingandknowing.org/#/folios/34r/f/34r/tl,Writing cunningly
+034v_1,68,34,2024,2158,378,0,0,tricks and sleight of hand,https://edition640.makingandknowing.org/#/folios/34v/f/34v/tl,For melting or transmuting a jewel put inside a box
+035r_1,69,35,287,317,56,0,0,tricks and sleight of hand,https://edition640.makingandknowing.org/#/folios/35r/f/35r/tl,"For telling someone that you will show teach him something he does not know, and neither do you"
+035r_2,69,35,829,894,142,0,0,tricks and sleight of hand,https://edition640.makingandknowing.org/#/folios/35r/f/35r/tl,For supporting a bucket of water on the tips of three knives laid down without touching the ground
+035r_3,69,35,277,299,53,0,0,tricks and sleight of hand,https://edition640.makingandknowing.org/#/folios/35r/f/35r/tl,For boiling an egg in cold water without fire
+035r_4,69,35,177,185,31,0,0,household and daily life,https://edition640.makingandknowing.org/#/folios/35r/f/35r/tl,For making rabbits come out of a burrow
+035v_1,70,35,187,215,34,0,0,tricks and sleight of hand,https://edition640.makingandknowing.org/#/folios/35v/f/35v/tl,For preventing someone from eating a foodstuff
+035v_2,70,35,1717,1817,309,0,5.765870705,tricks and sleight of hand,https://edition640.makingandknowing.org/#/folios/35v/f/35v/tl,For transmuting grain from one vessel to another
+036r_1,71,36,1621,1733,315,0,0,tricks and sleight of hand,https://edition640.makingandknowing.org/#/folios/36r/f/36r/tl,"For transmuting a ball into a thimble, cunning"
+036v_1,72,36,539,579,103,0,0,casting,https://edition640.makingandknowing.org/#/folios/36v/f/36v/tl,Founder
+036v_2,72,36,194,212,36,0,0,casting,https://edition640.makingandknowing.org/#/folios/36v/f/36v/tl,Four à vent
+036v_3,72,36,1182,1239,220,10.15228426,0,glass process,https://edition640.makingandknowing.org/#/folios/36v/f/36v/tl,Glassworkers’ glass
+037r_1,73,37,496,537,95,0,0,casting,https://edition640.makingandknowing.org/#/folios/37r/f/37r/tl,Founder
+037r_2,73,37,531,557,91,0,0,medicine,https://edition640.makingandknowing.org/#/folios/37r/f/37r/tl,Medicine for the stomach which heats it and unstops the liver
+037r_3,73,37,165,192,32,0,0,stones,https://edition640.makingandknowing.org/#/folios/37r/f/37r/tl,Foil backings for the [illegible] gemstones
+037r_4,73,37,316,341,59,0,0,household and daily life,https://edition640.makingandknowing.org/#/folios/37r/f/37r/tl,For keeping candles from dripping and making them white
+037v_1,74,37,654,717,116,0,0,cultivation,https://edition640.makingandknowing.org/#/folios/37v/f/37v/tl,Gardener
+037v_2,74,37,962,1066,171,0,0,glass process,https://edition640.makingandknowing.org/#/folios/37v/f/37v/tl,Glassworker
+037v_3,74,37,539,582,95,0,0,stones,https://edition640.makingandknowing.org/#/folios/37v/f/37v/tl,Yellow Amber
+038r_1,75,38,652,718,113,0,0,stones,https://edition640.makingandknowing.org/#/folios/38r/f/38r/tl,Sapphire
+038r_2,75,38,221,220,37,0,0,dyeing,https://edition640.makingandknowing.org/#/folios/38r/f/38r/tl,Saffron
+038r_3,75,38,705,771,121,0,0,stones,https://edition640.makingandknowing.org/#/folios/38r/f/38r/tl,Sapphire
+038r_4,75,38,1512,1621,273,13.16137566,0,stones,https://edition640.makingandknowing.org/#/folios/38r/f/38r/tl,Amber
+038v_1,76,38,210,214,33,0,0,dyeing,https://edition640.makingandknowing.org/#/folios/38v/f/38v/tl,Black color for dyeing
+038v_2,76,38,243,267,45,0,0,medicine,https://edition640.makingandknowing.org/#/folios/38v/f/38v/tl,Against nosebleed and for dyeing
+038v_3,76,38,198,221,36,0,0,cultivation,https://edition640.makingandknowing.org/#/folios/38v/f/38v/tl,Beautiful artichokes
+038v_4,76,38,215,236,40,0,0,cultivation,https://edition640.makingandknowing.org/#/folios/38v/f/38v/tl,Planting trees
+038v_5,76,38,332,338,61,0,0,merchants,https://edition640.makingandknowing.org/#/folios/38v/f/38v/tl,Merchant
+038v_6,76,38,360,393,68,0,0,dyeing,https://edition640.makingandknowing.org/#/folios/38v/f/38v/tl,Scarlets
+039r_1,77,39,640,713,110,0,0,casting,https://edition640.makingandknowing.org/#/folios/39r/f/39r/tl,Goldsmith
+039r_2,77,39,1198,1269,223,0,0,cultivation,https://edition640.makingandknowing.org/#/folios/39r/f/39r/tl,Pastel woad
+039v_1,78,39,358,406,66,0,0,painting,https://edition640.makingandknowing.org/#/folios/39v/f/39v/tl,Enamel
+039v_2,78,39,162,174,27,0,0,painting,https://edition640.makingandknowing.org/#/folios/39v/f/39v/tl,Colors for illumination on glass
+039v_3,78,39,2213,2325,383,0,16.80976051,painting,https://edition640.makingandknowing.org/#/folios/39v/f/39v/tl,Tracing some history on glass
+040r_1,79,40,197,207,33,0,0,dyeing,https://edition640.makingandknowing.org/#/folios/40r/f/40r/tl,Dye
+040r_2,79,40,305,343,54,0,0,corrosives,https://edition640.makingandknowing.org/#/folios/40r/f/40r/tl,Aquafortis
+040r_3,79,40,431,459,78,0,0,household and daily life,https://edition640.makingandknowing.org/#/folios/40r/f/40r/tl,Vinegar
+040r_4,79,40,241,287,43,0,0,metal process,https://edition640.makingandknowing.org/#/folios/40r/f/40r/tl,Buttons of vermeilles
+040r_5,79,40,237,261,43,0,0,decorative,https://edition640.makingandknowing.org/#/folios/40r/f/40r/tl,Grottos
+040v_1,80,40,505,532,94,0,0,painting,https://edition640.makingandknowing.org/#/folios/40v/f/40v/tl,Cross of the commanders of Malta
+040v_2,80,40,189,212,36,0,0,metal process,https://edition640.makingandknowing.org/#/folios/40v/f/40v/tl,Latten and calamine
+040v_3,80,40,146,173,30,0,0,metal process,https://edition640.makingandknowing.org/#/folios/40v/f/40v/tl,Metal
+040v_4,80,40,656,703,121,0,0,corrosives,https://edition640.makingandknowing.org/#/folios/40v/f/40v/tl,Aquafortis
+041r_1,81,41,813,838,151,0,0,casting,https://edition640.makingandknowing.org/#/folios/41r/f/41r/tl,"Earth for casting, for founders"
+041r_2,81,41,147,149,28,0,0,cultivation,https://edition640.makingandknowing.org/#/folios/41r/f/41r/tl,Garden lily
+041r_3,81,41,802,885,151,4.239401496,0,casting,https://edition640.makingandknowing.org/#/folios/41r/f/41r/tl,Sand
+041r_4,81,41,286,317,48,0,0,animal husbandry,https://edition640.makingandknowing.org/#/folios/41r/f/41r/tl,Ducks
+041v_1,82,41,292,323,52,0,0,painting,https://edition640.makingandknowing.org/#/folios/41v/f/41v/tl,Glassworkers’ black
+041v_2,82,41,356,412,70,47.19101124,0,animal husbandry,https://edition640.makingandknowing.org/#/folios/41v/f/41v/tl,Sheared ewes
+041v_3,82,41,1036,1136,195,0,0,painting,https://edition640.makingandknowing.org/#/folios/41v/f/41v/tl,Colors and gilding on glass
+042r_1,83,42,231,242,41,0,0,casting,https://edition640.makingandknowing.org/#/folios/42r/f/42r/tl,Founder
+042r_2,83,42,909,951,161,0,0,wax process,https://edition640.makingandknowing.org/#/folios/42r/f/42r/tl,Wax for seal and imprint
+042r_3,83,42,498,524,94,0,0,casting,https://edition640.makingandknowing.org/#/folios/42r/f/42r/tl,For casting in plaster
+042v_1,84,42,385,405,69,0,0,painting,https://edition640.makingandknowing.org/#/folios/42v/f/42v/tl,Pounced design for scratching satin
+042v_2,84,42,189,198,36,0,0,painting,https://edition640.makingandknowing.org/#/folios/42v/f/42v/tl,Canvas for painting in oil without breaking
+042v_3,84,42,130,149,23,0,0,painting,https://edition640.makingandknowing.org/#/folios/42v/f/42v/tl,Painting in oil on taffeta which
+042v_4,84,42,127,135,23,0,0,casting,https://edition640.makingandknowing.org/#/folios/42v/f/42v/tl,Sand for casting
+042v_5,84,42,111,123,19,0,0,painting,https://edition640.makingandknowing.org/#/folios/42v/f/42v/tl,For outlining a portrait
+042v_6,84,42,347,375,63,0,0,varnish,https://edition640.makingandknowing.org/#/folios/42v/f/42v/tl,White varnish on plaster
+043r_1,85,43,94,109,18,0,0,cultivation,https://edition640.makingandknowing.org/#/folios/43r/f/43r/tl,Mericotons and pavis
+043r_2,85,43,475,507,80,0,0,painting,https://edition640.makingandknowing.org/#/folios/43r/f/43r/tl,White bronzing on plaster
+043r_3,85,43,812,870,146,0,0,painting,https://edition640.makingandknowing.org/#/folios/43r/f/43r/tl,Purple
+043r_4,85,43,214,235,37,0,0,painting,https://edition640.makingandknowing.org/#/folios/43r/f/43r/tl,White bronzing
+043v_1,86,43,362,398,65,0,0,tricks and sleight of hand,https://edition640.makingandknowing.org/#/folios/43v/f/43v/tl,Varied and transmuted wine
+043v_2,86,43,78,92,15,0,0,stones,https://edition640.makingandknowing.org/#/folios/43v/f/43v/tl,Pearls
+043v_3,86,43,959,1001,174,0,0,arms and armor,https://edition640.makingandknowing.org/#/folios/43v/f/43v/tl,Arquebusier
+043v_4,86,43,219,252,36,0,0,arms and armor,https://edition640.makingandknowing.org/#/folios/43v/f/43v/tl,Hail shot of the arquebus
+044r_1,87,44,386,420,70,0,0,arms and armor,https://edition640.makingandknowing.org/#/folios/44r/f/44r/tl,The range of an arquebus
+044r_2,87,44,390,427,70,8.974358974,0,casting,https://edition640.makingandknowing.org/#/folios/44r/f/44r/tl,Pewterer
+044r_3,87,44,209,215,36,0,0,arms and armor,https://edition640.makingandknowing.org/#/folios/44r/f/44r/tl,Arquebus
+044r_4,87,44,149,159,27,0,0,painting,https://edition640.makingandknowing.org/#/folios/44r/f/44r/tl,Lake
+044r_5,87,44,578,606,108,0,0,dyeing,https://edition640.makingandknowing.org/#/folios/44r/f/44r/tl,Dyes from flowers
+044v_1,88,44,843,893,156,0,0,tool,https://edition640.makingandknowing.org/#/folios/44v/f/44v/tl,Horsehair sieves
+044v_2,88,44,467,480,81,0,0,medicine,https://edition640.makingandknowing.org/#/folios/44v/f/44v/tl,Excellent water against the plague of Monsieur de Montorsin
+044v_3,88,44,302,329,56,0,0,medicine,https://edition640.makingandknowing.org/#/folios/44v/f/44v/tl,White soporific oil
+044v_4,88,44,357,383,64,0,0,stones,https://edition640.makingandknowing.org/#/folios/44v/f/44v/tl,Stucco
+045r_1,89,45,1932,2065,372,0.569358178,0,arms and armor,https://edition640.makingandknowing.org/#/folios/45r/f/45r/tl,Loading an arquebus with hail shot
+045v_1,90,45,713,776,123,0,0,arms and armor,https://edition640.makingandknowing.org/#/folios/45v/f/45v/tl,Loading an arquebus
+045v_2,90,45,488,496,93,0,0,arms and armor,https://edition640.makingandknowing.org/#/folios/45v/f/45v/tl,For adjusting a crooked cannon
+046r_1,91,46,805,854,145,0,0,medicine,https://edition640.makingandknowing.org/#/folios/46r/f/46r/tl,"For the teeth, oil of sulfur"
+046r_2,91,46,80,85,15,0,0,medicine,https://edition640.makingandknowing.org/#/folios/46r/f/46r/tl,Wheat oil
+046r_3,91,46,266,294,53,0,0,medicine,https://edition640.makingandknowing.org/#/folios/46r/f/46r/tl,Writing without ink
+046r_4,91,46,79,85,12,0,0,medicine,https://edition640.makingandknowing.org/#/folios/46r/f/46r/tl,Against the falling sickness
+046r_5,91,46,149,170,27,0,0,cultivation,https://edition640.makingandknowing.org/#/folios/46r/f/46r/tl,Against cold gouts
+046v_1,92,46,218,246,37,0,0,corrosives,https://edition640.makingandknowing.org/#/folios/46r/f/46r/tl,Go Flowers of trees
+046v_2,92,46,280,307,48,0,0,corrosives,https://edition640.makingandknowing.org/#/folios/46v/f/46v/tl,"Scribe, oil of sulfur"
+046v_3,92,46,188,199,30,0,0,corrosives,https://edition640.makingandknowing.org/#/folios/46v/f/46v/tl,Shoemaker
+046v_4,92,46,117,161,19,0,0,corrosives,https://edition640.makingandknowing.org/#/folios/46v/f/46v/tl,Erasing a letter
+046v_5,92,46,315,346,55,0,0,corrosives,https://edition640.makingandknowing.org/#/folios/46v/f/46v/tl,Making a letter à jour on paper and other work
+046v_6,92,46,125,144,21,0,0,corrosives,https://edition640.makingandknowing.org/#/folios/46v/f/46v/tl,Making someone’s boots burn
+046v_7,92,46,112,118,19,0,0,corrosives,https://edition640.makingandknowing.org/#/folios/46v/f/46v/tl,"On stone, black letters"
+047r_1,93,47,278,310,59,0,0,medicine,https://edition640.makingandknowing.org/#/folios/47r/f/47r/tl,For teeth
+047r_2,93,47,97,117,16,0,0,metal process,https://edition640.makingandknowing.org/#/folios/47r/f/47r/tl,Antimony oil
+047r_3,93,47,118,130,22,0,0,medicine,https://edition640.makingandknowing.org/#/folios/47r/f/47r/tl,Against falling sickness or vertigo
+047r_4,93,47,442,473,82,0,0,metal process,https://edition640.makingandknowing.org/#/folios/47r/f/47r/tl,Crucibles
+047r_5,93,47,469,502,82,0,0,medicine,https://edition640.makingandknowing.org/#/folios/47r/f/47r/tl,Against diarrhea and dysentery
+047v_1,94,47,119,117,22,0,0,tricks and sleight of hand,https://edition640.makingandknowing.org/#/folios/47v/f/47v/tl,A drink having a taste of wine
+047v_2,94,47,1098,1140,203,0,0,metal process,https://edition640.makingandknowing.org/#/folios/47v/f/47v/tl,Founding
+047v_3,94,47,135,139,24,0,0,metal process,https://edition640.makingandknowing.org/#/folios/47v/f/47v/tl,Crucibles
+047v_4,94,47,172,193,29,0,0,casting,https://edition640.makingandknowing.org/#/folios/47v/f/47v/tl,Casting
+048r_1,95,48,67,78,12,0,0,metal process,https://edition640.makingandknowing.org/#/folios/48r/f/48r/tl,Founder
+048r_2,95,48,223,253,43,0,0,medicine,https://edition640.makingandknowing.org/#/folios/48r/f/48r/tl,Curing dogs of mange
+048r_3,95,48,228,234,39,0,0,metal process,https://edition640.makingandknowing.org/#/folios/48r/f/48r/tl,Excellent mustard
+048r_4,95,48,567,597,99,0,0,preserving,https://edition640.makingandknowing.org/#/folios/48r/f/48r/tl,Keeping birds and animals
+048v_1,96,48,929,975,170,0,0,metal process,https://edition640.makingandknowing.org/#/folios/48v/f/48v/tl,Extraction of regulus
+048v_2,96,48,1822,1943,335,25.46652031,0,metal process,https://edition640.makingandknowing.org/#/folios/48v/f/48v/tl,"Lead, tin"
+049r_1,97,49,1018,1125,180,11.5913556,0,casting,https://edition640.makingandknowing.org/#/folios/49r/f/49r/tl,Casting of lead
+049r_2,97,49,168,193,29,0,0,casting,https://edition640.makingandknowing.org/#/folios/49r/f/49r/tl,Sand for lead casting
+049r_3,97,49,212,237,33,0,0,casting,https://edition640.makingandknowing.org/#/folios/49r/f/49r/tl,Another
+049r_4,97,49,793,866,140,0,0,metal process,https://edition640.makingandknowing.org/#/folios/49r/f/49r/tl,Pewterers
+049v_1,98,49,837,908,146,0,0,animal husbandry,https://edition640.makingandknowing.org/#/folios/49v/f/49v/tl,Birds
+049v_2,98,49,602,659,114,0,0,metal process,https://edition640.makingandknowing.org/#/folios/49v/f/49v/tl,Grain of lead
+049v_3,98,49,796,895,140,11.68341709,0,animal husbandry,https://edition640.makingandknowing.org/#/folios/49v/f/49v/tl,Birds
+050r_1,99,50,1303,1422,241,0,0,preserving,https://edition640.makingandknowing.org/#/folios/50r/f/50r/tl,Keeping fruit for the entire year
+050r_2,99,50,883,920,161,13.25028313,0,casting,https://edition640.makingandknowing.org/#/folios/50r/f/50r/tl,Molding
+050v_1,100,50,1235,1303,215,0,0,animal husbandry,https://edition640.makingandknowing.org/#/folios/50v/f/50v/tl,Small birds
+050v_2,100,50,1281,1389,230,23.34113973,0,tool,https://edition640.makingandknowing.org/#/folios/50v/f/50v/tl,Curried steel and files
+051r_1,101,51,970,1028,180,0,0,printing,https://edition640.makingandknowing.org/#/folios/51r/f/51r/tl,Counterproofing
+051r_2,101,51,3574,3795,630,5.540011192,63.48628987,printing,https://edition640.makingandknowing.org/#/folios/51r/f/51r/tl,Cutters of printing plates
+052r_1,103,52,3419,3655,631,0,27.52266745,cultivation,https://edition640.makingandknowing.org/#/folios/52r/f/52r/tl,The work done in Algiers
+052v_1,104,52,297,333,56,0,0,cultivation,https://edition640.makingandknowing.org/#/folios/52v/f/52v/tl,Linseed
+052v_2,104,52,584,606,103,0,0,painting,https://edition640.makingandknowing.org/#/folios/52v/f/52v/tl,Colors
+053r_1,105,53,492,549,92,0,0,tool,https://edition640.makingandknowing.org/#/folios/53r/f/53r/tl,Soldering a vise
+053r_2,105,53,105,113,23,0,0,metal process,https://edition640.makingandknowing.org/#/folios/53r/f/53r/tl,Copper
+053r_3,105,53,192,225,37,0,0,casting,https://edition640.makingandknowing.org/#/folios/53r/f/53r/tl,Casting of lead
+053r_4,105,53,226,238,38,0,0,casting,https://edition640.makingandknowing.org/#/folios/53r/f/53r/tl,Molding with paper
+053r_5,105,53,187,208,29,0,0,cultivation,https://edition640.makingandknowing.org/#/folios/53r/f/53r/tl,"Almond trees, apricots"
+053r_6,105,53,486,514,93,51.02880658,0,casting,https://edition640.makingandknowing.org/#/folios/53r/f/53r/tl,Casting of lead and copper
+053v_1,106,53,4300,4672,785,3.348837209,41.8372093,cultivation,https://edition640.makingandknowing.org/#/folios/53v/f/53v/tl,Silkworms
+054v_1,108,54,448,489,78,0,0,preserving,https://edition640.makingandknowing.org/#/folios/54v/f/54v/tl,[On dry preserves]
+054v_2,108,54,253,265,46,0,0,animal husbandry,https://edition640.makingandknowing.org/#/folios/54v/f/54v/tl,For making a horse follow
+054v_3,108,54,249,263,41,0,0,household and daily life,https://edition640.makingandknowing.org/#/folios/54v/f/54v/tl,Dogs
+054v_4,108,54,152,150,27,0,0,tricks and sleight of hand,https://edition640.makingandknowing.org/#/folios/54v/f/54v/tl,For disguising a horse
+054v_5,108,54,136,139,26,0,0,household and daily life,https://edition640.makingandknowing.org/#/folios/54v/f/54v/tl,Boots of hay
+055r_1,109,55,438,460,84,0,0,arms and armor,https://edition640.makingandknowing.org/#/folios/55r/f/55r/tl,For firing a schioppo senza rumore
+055r_2,109,55,153,155,26,0,0,arms and armor,https://edition640.makingandknowing.org/#/folios/55r/f/55r/tl,For tempering a ball that will pierce and will make healing difficult
+055r_3,109,55,270,297,46,0,0,medicine,https://edition640.makingandknowing.org/#/folios/55r/f/55r/tl,Against wounds
+055r_4,109,55,948,996,167,0,24.78902954,medicine,https://edition640.makingandknowing.org/#/folios/55r/f/55r/tl,Onenev elbirro hcihw sllik fi     eno spets no a draob ro a ueirse purrits 
+055v_1,110,55,105,113,18,0,0,medicine,https://edition640.makingandknowing.org/#/folios/55v/f/55v/tl,Another for waters
+055v_2,110,55,158,163,29,0,0,metal process,https://edition640.makingandknowing.org/#/folios/55v/f/55v/tl,Damascus steel
+055v_3,110,55,253,286,49,0,0,household and daily life,https://edition640.makingandknowing.org/#/folios/55v/f/55v/tl,For knowing the course one takes on the open sea
+055v_4,110,55,409,443,77,0,0,casting,https://edition640.makingandknowing.org/#/folios/55v/f/55v/tl,For casting
+056r_1,111,56,987,990,176,0,0,metal process,https://edition640.makingandknowing.org/#/folios/56r/f/56r/tl,Excellent tempering bath for cuirass bodies
+056r_2,111,56,744,788,138,0,0,varnish,https://edition640.makingandknowing.org/#/folios/56r/f/56r/tl,Varnish for distemper
+056v_1,112,56,4480,4906,811,20.49107143,46.94196429,painting,https://edition640.makingandknowing.org/#/folios/56v/f/56v/tl,Painter
+057v_1,114,57,1189,1239,202,0,0,arms and armor,https://edition640.makingandknowing.org/#/folios/57v/f/57v/tl,Sheath maker
+057v_2,114,57,2298,2468,414,0,71.71453438,painting,https://edition640.makingandknowing.org/#/folios/57v/f/57v/tl,Painter
+058v_1,116,58,136,158,26,0,0,painting,https://edition640.makingandknowing.org/#/folios/58v/f/58v/tl,Blacks
+058v_2,116,58,129,140,20,0,0,painting,https://edition640.makingandknowing.org/#/folios/58v/f/58v/tl,Shadows
+058v_3,116,58,130,153,24,0,0,painting,https://edition640.makingandknowing.org/#/folios/58v/f/58v/tl,In fresco
+058v_4,116,58,516,593,96,59.68992248,0,painting,https://edition640.makingandknowing.org/#/folios/58v/f/58v/tl,Azure
+058v_5,116,58,2002,2161,363,28.87112887,42.55744256,painting,https://edition640.makingandknowing.org/#/folios/58v/f/58v/tl,Paintbrushes
+059r_1,117,59,443,461,78,16.02708804,0,painting,https://edition640.makingandknowing.org/#/folios/59r/f/59r/tl,Shadows
+059r_2,117,59,556,608,99,0,0,varnish,https://edition640.makingandknowing.org/#/folios/59r/f/59r/tl,Azure
+059v_1,118,59,198,241,41,0,0,painting,https://edition640.makingandknowing.org/#/folios/59v/f/59v/tl,Black Painting of armor
+059v_2,118,59,211,227,38,0,0,painting,https://edition640.makingandknowing.org/#/folios/59v/f/59v/tl,Painting of crêpe
+059v_3,118,59,319,339,59,0,0,painting,https://edition640.makingandknowing.org/#/folios/59v/f/59v/tl,Folds in clothing
+059v_4,118,59,275,296,49,0,0,painting,https://edition640.makingandknowing.org/#/folios/59v/f/59v/tl,Desiccative
+059v_5,118,59,88,98,14,0,0,painting,https://edition640.makingandknowing.org/#/folios/59v/f/59v/tl,Double layers
+059v_6,118,59,833,903,151,0,29.65186074,painting,https://edition640.makingandknowing.org/#/folios/59v/f/59v/tl,Mending the cracks in a panel
+060r_1,119,60,571,602,99,0,0,painting,https://edition640.makingandknowing.org/#/folios/60r/f/60r/tl,First whitening of a panel
+060r_2,119,60,615,667,104,55.44715447,0,painting,https://edition640.makingandknowing.org/#/folios/60r/f/60r/tl,Neat work
+060r_3,119,60,842,941,152,0,0,painting,https://edition640.makingandknowing.org/#/folios/60r/f/60r/tl,Oil
+060v_1,120,60,712,763,131,26.26404494,0,varnish,https://edition640.makingandknowing.org/#/folios/60v/f/60v/tl,Varnish dry in an hour
+060v_2,120,60,137,151,23,0,0,painting,https://edition640.makingandknowing.org/#/folios/60v/f/60v/tl,Cleaning panels
+060v_3,120,60,766,842,133,98.17232376,0,painting,https://edition640.makingandknowing.org/#/folios/60v/f/60v/tl,Spike lavender oil
+060v_4,120,60,667,701,122,0,89.50524738,painting,https://edition640.makingandknowing.org/#/folios/60v/f/60v/tl,Wood color
+060v_5,120,60,873,961,150,0,0,painting,https://edition640.makingandknowing.org/#/folios/60v/f/60v/tl,Work of the Flemish
+061r_1,121,61,583,658,96,21.26929674,0,painting,https://edition640.makingandknowing.org/#/folios/61r/f/61r/tl,Flesh colors
+061r_2,121,61,278,282,47,0,0,painting,https://edition640.makingandknowing.org/#/folios/61r/f/61r/tl,Rounding
+061r_3,121,61,190,210,38,0,0,painting,https://edition640.makingandknowing.org/#/folios/61r/f/61r/tl,Lead white
+061r_4,121,61,425,457,80,0,0,painting,https://edition640.makingandknowing.org/#/folios/61r/f/61r/tl,Lights
+061v_1,122,61,172,182,31,0,0,painting,https://edition640.makingandknowing.org/#/folios/61v/f/61v/tl,Water to give light for the painter
+061v_2,122,61,483,509,82,0,0,painting,https://edition640.makingandknowing.org/#/folios/61v/f/61v/tl,Frames of the Germans 
+061v_3,122,61,1345,1498,249,30.78066914,0,painting,https://edition640.makingandknowing.org/#/folios/61v/f/61v/tl,Azur d’esmail in oil
+061v_4,122,61,193,210,33,0,0,painting,https://edition640.makingandknowing.org/#/folios/61v/f/61v/tl,Grinding colors
+062r_1,123,62,321,351,55,0,0,painting,https://edition640.makingandknowing.org/#/folios/62r/f/62r/tl,Perspectives
+062r_2,123,62,77,91,14,0,0,painting,https://edition640.makingandknowing.org/#/folios/62r/f/62r/tl,Ocher
+062r_3,123,62,325,328,58,0,0,painting,https://edition640.makingandknowing.org/#/folios/62r/f/62r/tl,Distant people and animals
+062r_4,123,62,1397,1472,243,0,0,painting,https://edition640.makingandknowing.org/#/folios/62r/f/62r/tl,Drawing
+062v_1,124,62,243,267,42,0,0,painting,https://edition640.makingandknowing.org/#/folios/62v/f/62v/tl,Drawing
+062v_2,124,62,992,1088,180,20.06048387,0,painting,https://edition640.makingandknowing.org/#/folios/62v/f/62v/tl,Perspective
+062v_3,124,62,292,307,53,0,0,painting,https://edition640.makingandknowing.org/#/folios/62v/f/62v/tl,Panel
+063r_1,125,63,246,278,46,0,0,painting,https://edition640.makingandknowing.org/#/folios/63r/f/63r/tl,Amaranth color
+063r_2,125,63,177,195,32,0,0,painting,https://edition640.makingandknowing.org/#/folios/63r/f/63r/tl,Drying of oil
+063r_3,125,63,559,592,112,27.01252236,0,casting,https://edition640.makingandknowing.org/#/folios/63r/f/63r/tl,Casting
+063r_4,125,63,124,134,20,0,0,painting,https://edition640.makingandknowing.org/#/folios/63r/f/63r/tl,Shadows
+063r_5,125,63,79,95,14,0,0,painting,https://edition640.makingandknowing.org/#/folios/63r/f/63r/tl,Bistre
+063r_6,125,63,477,518,86,0,0,painting,https://edition640.makingandknowing.org/#/folios/63r/f/63r/tl,Verdigris and another very beautiful bright green
+063v_1,126,63,463,505,82,0,0,painting,https://edition640.makingandknowing.org/#/folios/63v/f/63v/tl,Velvets and blacks
+063v_2,126,63,75,84,14,0,0,painting,https://edition640.makingandknowing.org/#/folios/63v/f/63v/tl,Armor
+063v_3,126,63,125,142,23,0,0,painting,https://edition640.makingandknowing.org/#/folios/63v/f/63v/tl,Stil de grain yellow
+063v_4,126,63,104,109,18,0,0,painting,https://edition640.makingandknowing.org/#/folios/63v/f/63v/tl,Rosette
+063v_5,126,63,123,136,25,0,0,painting,https://edition640.makingandknowing.org/#/folios/63v/f/63v/tl,Flanders blue
+063v_6,126,63,89,98,17,0,0,painting,https://edition640.makingandknowing.org/#/folios/63v/f/63v/tl,Snow-covered landscapes
+063v_7,126,63,249,259,40,0,0,painting,https://edition640.makingandknowing.org/#/folios/63v/f/63v/tl,Softening
+064r_1,127,64,582,611,92,0,0,painting,https://edition640.makingandknowing.org/#/folios/64r/f/64r/tl,Working neatly
+064r_2,127,64,210,235,38,0,0,painting,https://edition640.makingandknowing.org/#/folios/64r/f/64r/tl,Yellow ocher
+064r_3,127,64,423,455,74,0,0,painting,https://edition640.makingandknowing.org/#/folios/64r/f/64r/tl,Fatty oil
+064r_4,127,64,333,363,61,0,0,painting,https://edition640.makingandknowing.org/#/folios/64r/f/64r/tl,Softening
+064r_5,127,64,254,271,41,0,0,painting,https://edition640.makingandknowing.org/#/folios/64r/f/64r/tl,Vermilion
+064r_6,127,64,51,129,10,74.50980392,0,painting,https://edition640.makingandknowing.org/#/folios/64r/f/64r/tl,Eye
+064r_7,127,64,163,330,30,93.86503067,0,painting,https://edition640.makingandknowing.org/#/folios/64r/f/64r/tl,Oil colors in water
+064r_8,127,64,85,156,16,92.94117647,0,painting,https://edition640.makingandknowing.org/#/folios/64r/f/64r/tl,Double layer
+064v_1,128,64,653,692,116,0,0,painting,https://edition640.makingandknowing.org/#/folios/64v/f/64v/tl,Apprenticeship of the painter
+064v_3,128,64,372,431,66,62.6344086,0,painting,https://edition640.makingandknowing.org/#/folios/64v/f/64v/tl,Softening
+064v_4,128,64,225,240,41,0,0,painting,https://edition640.makingandknowing.org/#/folios/64v/f/64v/tl,Straight lines
+064v_5,128,64,203,222,33,0,0,painting,https://edition640.makingandknowing.org/#/folios/64v/f/64v/tl,Distemper
+065r_1,129,65,951,1030,179,16.08832808,0,painting,https://edition640.makingandknowing.org/#/folios/65r/f/65r/tl,Shadows
+065r_2,129,65,336,358,60,0,0,painting,https://edition640.makingandknowing.org/#/folios/65r/f/65r/tl,Flesh color
+065r_3,129,65,396,429,74,0,0,painting,https://edition640.makingandknowing.org/#/folios/65r/f/65r/tl,Fatty colors
+065r_4,129,65,822,1123,144,59.24574209,0,painting,https://edition640.makingandknowing.org/#/folios/65r/f/65r/tl,Mirror
+065v_1,130,65,635,693,107,0,0,painting,https://edition640.makingandknowing.org/#/folios/65v/f/65v/tl,Semi-lively colors
+065v_2,130,65,430,455,80,0,0,painting,https://edition640.makingandknowing.org/#/folios/65v/f/65v/tl,From nature
+065v_3,130,65,270,293,44,0,0,painting,https://edition640.makingandknowing.org/#/folios/65v/f/65v/tl,Painting large figures
+065v_4,130,65,115,125,22,0,0,painting,https://edition640.makingandknowing.org/#/folios/65v/f/65v/tl,Glazing
+065v_5,130,65,64,90,13,0,0,painting,https://edition640.makingandknowing.org/#/folios/65v/f/65v/tl,White and black
+065v_6,130,65,516,870,90,97.86821705,0,painting,https://edition640.makingandknowing.org/#/folios/65v/f/65v/tl,Imprimatura
+065v_7,130,65,444,518,83,64.86486486,0,painting,https://edition640.makingandknowing.org/#/folios/65v/f/65v/tl,Lead white
+066r_1,131,66,310,320,51,0,0,painting,https://edition640.makingandknowing.org/#/folios/66r/f/66r/tl,Double layers
+066r_2,131,66,62,101,11,0,0,painting,https://edition640.makingandknowing.org/#/folios/66r/f/66r/tl,* Or mat
+066r_3,131,66,428,541,76,0,0,painting,https://edition640.makingandknowing.org/#/folios/66r/f/66r/tl,Shadows
+066r_4,131,66,594,842,106,0,0,painting,https://edition640.makingandknowing.org/#/folios/66r/f/66r/tl,Painting in distemper on wood
+066r_5,131,66,1181,1415,219,32.51481795,32.76883997,varnish,https://edition640.makingandknowing.org/#/folios/66r/f/66r/tl,Colors in oil that are imbibed
+066r_6,131,66,1640,2118,324,99.45121951,6.829268293,painting,https://edition640.makingandknowing.org/#/folios/66r/f/66r/tl,Gilding molding for panels with or mat
+066v_1,132,66,729,945,125,0,0,medicine,https://edition640.makingandknowing.org/#/folios/66v/f/66v/tl,For preventing teats from swelling  d or to diminish overly large ones
+066v_2,132,66,108,117,19,0,0,animal husbandry,https://edition640.makingandknowing.org/#/folios/66v/f/66v/tl,For attracting pigeons
+066v_3,132,66,109,120,17,0,0,medicine,https://edition640.makingandknowing.org/#/folios/66v/f/66v/tl,Against bruising of the eyes
+066v_4,132,66,1066,1124,206,0,55.72232645,painting,https://edition640.makingandknowing.org/#/folios/66v/f/66v/tl,Paintbrushes
+067r_1,133,67,168,178,29,0,0,varnish,https://edition640.makingandknowing.org/#/folios/67r/f/67r/tl,Oil
+067r_2,133,67,64,72,9,0,0,casting,https://edition640.makingandknowing.org/#/folios/67r/f/67r/tl,Sand
+067r_3,133,67,388,418,70,0,0,tool,https://edition640.makingandknowing.org/#/folios/67r/f/67r/tl,Bellows furnace
+067r_4,133,67,438,478,71,0,0,varnish,https://edition640.makingandknowing.org/#/folios/67r/f/67r/tl,Varnish on paper
+067v_1,134,67,541,579,91,0,0,tool,https://edition640.makingandknowing.org/#/folios/67v/f/67v/tl,Files
+067v_2,134,67,491,519,87,12.83095723,0,casting,https://edition640.makingandknowing.org/#/folios/67v/f/67v/tl,Bones of the foot of oxen for sand
+067v_3,134,67,684,738,117,0,0,painting,https://edition640.makingandknowing.org/#/folios/67v/f/67v/tl,Essential oils
+068r_1,135,68,348,357,55,0,0,decorative,https://edition640.makingandknowing.org/#/folios/68r/f/68r/tl,Fanciful tables
+068r_2,135,68,195,207,35,0,0,cultivation,https://edition640.makingandknowing.org/#/folios/68r/f/68r/tl,Planting trees
+068r_3,135,68,3969,4280,720,1.410934744,64.95338876,casting,https://edition640.makingandknowing.org/#/folios/68r/f/68r/tl,Casting
+069r_1,137,69,100,106,16,0,0,wood and its coloring,https://edition640.makingandknowing.org/#/folios/69r/f/69r/tl,Joiner
+069r_2,137,69,6343,6934,1169,17.2631247,70.53444742,casting,https://edition640.makingandknowing.org/#/folios/69r/f/69r/tl,Sand
+071r_1,141,71,191,216,32,0,0,stones,https://edition640.makingandknowing.org/#/folios/71r/f/71r/tl,Amber
+071r_2,141,71,220,248,41,0,0,wood and its coloring,https://edition640.makingandknowing.org/#/folios/71r/f/71r/tl,Wood with streaked grain
+071r_3,141,71,985,1107,182,23.65482234,0,household and daily life,https://edition640.makingandknowing.org/#/folios/71r/f/71r/tl,Mulled and sugared wine
+071r_4,141,71,156,171,28,0,0,household and daily life,https://edition640.makingandknowing.org/#/folios/71r/f/71r/tl,Weary horses
+071r_5,141,71,164,179,30,0,0,household and daily life,https://edition640.makingandknowing.org/#/folios/71r/f/71r/tl,Eau-de-vie
+071v_1,142,71,812,888,147,0,0,varnish,https://edition640.makingandknowing.org/#/folios/71v/f/71v/tl,Varnish
+071v_2,142,71,152,167,25,0,0,household and daily life,https://edition640.makingandknowing.org/#/folios/71v/f/71v/tl,Sheep fat
+071v_3,142,71,243,274,42,0,0,household and daily life,https://edition640.makingandknowing.org/#/folios/71v/f/71v/tl,Spider
+071v_4,142,71,391,435,69,0,0,casting,https://edition640.makingandknowing.org/#/folios/71v/f/71v/tl,Sand
+072r_1,143,72,265,278,45,0,0,casting,https://edition640.makingandknowing.org/#/folios/72r/f/72r/tl,Printer’s letters
+072r_2,143,72,1846,1957,330,5.958829902,0,casting,https://edition640.makingandknowing.org/#/folios/72r/f/72r/tl,Casting in copper 
+072v_1,144,72,3367,3650,614,33.70953371,0,casting,https://edition640.makingandknowing.org/#/folios/72v/f/72v/tl,Casting
+073r_1,145,73,275,305,53,0,0,wood and its coloring,https://edition640.makingandknowing.org/#/folios/73r/f/73r/tl,For making blue varnish
+073r_2,145,73,139,171,25,0,0,wood and its coloring,https://edition640.makingandknowing.org/#/folios/73r/f/73r/tl,For orange color
+073r_3,145,73,411,453,79,0,0,wood and its coloring,https://edition640.makingandknowing.org/#/folios/73r/f/73r/tl,For ridding bone or horn of grease
+073r_4,145,73,442,488,80,0,0,wood and its coloring,https://edition640.makingandknowing.org/#/folios/73r/f/73r/tl,For making gray wood
+073r_5,145,73,479,536,88,0,68.26722338,metal process,https://edition640.makingandknowing.org/#/folios/73r/f/73r/tl,For making bronze in gold color
+073v_1,146,73,241,269,44,0,0,metal process,https://edition640.makingandknowing.org/#/folios/73v/f/73v/tl,For coating it
+073v_2,146,73,245,259,45,0,0,varnish,https://edition640.makingandknowing.org/#/folios/73v/f/73v/tl,Varnish
+073v_3,146,73,184,200,31,0,0,varnish,https://edition640.makingandknowing.org/#/folios/73v/f/73v/tl,Another recipe for making varnish
+073v_4,146,73,334,353,57,0,0,metal process,https://edition640.makingandknowing.org/#/folios/73v/f/73v/tl,Color of burnished copper
+074r_1,147,74,177,192,31,0,0,metal process,https://edition640.makingandknowing.org/#/folios/74r/f/74r/tl,For bronzing white
+074r_2,147,74,352,388,62,0,0,painting,https://edition640.makingandknowing.org/#/folios/74r/f/74r/tl,For making vermilion
+074r_3,147,74,1139,1271,209,0,25.28533802,varnish,https://edition640.makingandknowing.org/#/folios/74r/f/74r/tl,For making varnish
+074v_1,148,74,168,203,29,0,0,varnish,https://edition640.makingandknowing.org/#/folios/74v/f/74v/tl,For making red varnish
+074v_2,148,74,559,618,95,0,0,varnish,https://edition640.makingandknowing.org/#/folios/74v/f/74v/tl,For making yellow varnish
+074v_3,148,74,279,288,49,0,0,wax process,https://edition640.makingandknowing.org/#/folios/74v/f/74v/tl,Recipe for white gum
+074v_4,148,74,102,117,20,0,0,wax process,https://edition640.makingandknowing.org/#/folios/74v/f/74v/tl,Green gum
+075r_1,149,75,96,110,16,0,0,wax process,https://edition640.makingandknowing.org/#/folios/75r/f/75r/tl,Red gum
+075r_2,149,75,265,292,50,0,0,wood and its coloring,https://edition640.makingandknowing.org/#/folios/75r/f/75r/tl,Bronze of copper
+075r_3,149,75,422,482,74,0,0,wood and its coloring,https://edition640.makingandknowing.org/#/folios/75r/f/75r/tl,Bronze like tin
+075r_4,149,75,193,200,36,0,0,corrosives,https://edition640.makingandknowing.org/#/folios/75r/f/75r/tl,For making aquafortis
+075r_5,149,75,236,249,44,0,0,painting,https://edition640.makingandknowing.org/#/folios/75r/f/75r/tl,Or moulu
+075v_1,150,75,325,369,62,0,0,wood and its coloring,https://edition640.makingandknowing.org/#/folios/75v/f/75v/tl,For making gray wood
+075v_2,150,75,656,713,120,0,0,wood and its coloring,https://edition640.makingandknowing.org/#/folios/75v/f/75v/tl,For gilding on wood
+075v_3,150,75,236,269,43,0,0,metal process,https://edition640.makingandknowing.org/#/folios/75v/f/75v/tl,For gilding with or moleu
+075v_4,150,75,543,623,101,0,47.88213628,wood and its coloring,https://edition640.makingandknowing.org/#/folios/75v/f/75v/tl,Recipe for putting all woods in color
+076r_1,151,76,354,375,65,0,0,wood and its coloring,https://edition640.makingandknowing.org/#/folios/76r/f/76r/tl,For making wood green
+076r_2,151,76,175,193,32,0,0,wood and its coloring,https://edition640.makingandknowing.org/#/folios/76r/f/76r/tl,For making wood red
+076r_3,151,76,197,212,38,0,0,wood and its coloring,https://edition640.makingandknowing.org/#/folios/76r/f/76r/tl,For making it blue
+076r_4,151,76,149,154,26,0,0,wood and its coloring,https://edition640.makingandknowing.org/#/folios/76r/f/76r/tl,For making it violet 
+076r_5,151,76,161,173,28,0,0,wood and its coloring,https://edition640.makingandknowing.org/#/folios/76r/f/76r/tl,For making it yellow
+076v_1,152,76,512,542,93,0,0,metal process,https://edition640.makingandknowing.org/#/folios/76v/f/76v/tl,For making very beautiful color of gold & of little expense
+076v_2,152,76,228,243,41,0,0,wood and its coloring,https://edition640.makingandknowing.org/#/folios/76v/f/76v/tl,For making black goumiche
+076v_3,152,76,137,149,26,0,0,wood and its coloring,https://edition640.makingandknowing.org/#/folios/76v/f/76v/tl,For the white 
+076v_4,152,76,412,433,77,0,0,metal process,https://edition640.makingandknowing.org/#/folios/76v/f/76v/tl,For gilding on iron or tin
+077r_1,153,77,129,134,23,0,0,medicine,https://edition640.makingandknowing.org/#/folios/77r/f/77r/tl,Against redness of the face
+077r_2,153,77,347,375,61,0,0,medicine,https://edition640.makingandknowing.org/#/folios/77r/f/77r/tl, Medicine of the orientals against all maladies
+077r_3,153,77,297,321,56,0,0,casting,https://edition640.makingandknowing.org/#/folios/77r/f/77r/tl,Fatty earth
+077r_4,153,77,986,1074,176,0,67.24137931,varnish,https://edition640.makingandknowing.org/#/folios/77r/f/77r/tl,Recipe for making bronze and varnish of many sorts
+077v_1,154,77,366,392,69,0,0,varnish,https://edition640.makingandknowing.org/#/folios/77v/f/77v/tl,Another approved varnish
+077v_2,154,77,306,335,52,0,0,varnish,https://edition640.makingandknowing.org/#/folios/77v/f/77v/tl,Another varnish
+077v_3,154,77,224,244,43,0,62.5,varnish,https://edition640.makingandknowing.org/#/folios/77v/f/77v/tl,Another varnish
+078r_1,155,78,477,509,90,0,0,varnish,https://edition640.makingandknowing.org/#/folios/78r/f/78r/tl,Another varnish
+078r_2,155,78,242,274,44,0,0,varnish,https://edition640.makingandknowing.org/#/folios/78r/f/78r/tl,For making red varnish
+078r_3,155,78,276,294,55,0,0,wood and its coloring,https://edition640.makingandknowing.org/#/folios/78r/f/78r/tl,For making trwood green
+078v_1,156,78,392,423,73,0,0,metal process,https://edition640.makingandknowing.org/#/folios/78v/f/78v/tl,For making bronze in the color of steel
+078v_2,156,78,293,305,56,0,0,varnish,https://edition640.makingandknowing.org/#/folios/78v/f/78v/tl,For making bronze in the color of gold
+078v_3,156,78,162,167,31,0,0,wood and its coloring,https://edition640.makingandknowing.org/#/folios/78v/f/78v/tl,For making bone or horn green
+078v_4,156,78,558,594,104,0,57.70609319,metal process,https://edition640.makingandknowing.org/#/folios/78v/f/78v/tl,For making bronze
+079r_1,157,79,167,194,35,0,0,wood and its coloring,https://edition640.makingandknowing.org/#/folios/79r/f/79r/tl,For making wood gray
+079r_2,157,79,484,521,89,0,0,medicine,https://edition640.makingandknowing.org/#/folios/79r/f/79r/tl,For making water for disease of the eyes
+079r_3,157,79,608,658,110,0,48.84868421,metal process,https://edition640.makingandknowing.org/#/folios/79r/f/79r/tl,For making bronze in the color of gold
+079v_1,158,79,235,252,38,0,0,varnish,https://edition640.makingandknowing.org/#/folios/79v/f/79v/tl,For making varnish
+079v_2,158,79,181,193,32,0,0,medicine,https://edition640.makingandknowing.org/#/folios/79v/f/79v/tl,Antidote against the fumes of metals
+079v_3,158,79,226,255,41,21.23893805,0,casting,https://edition640.makingandknowing.org/#/folios/79v/f/79v/tl,Tin for casting
+079v_4,158,79,464,478,87,0,0,printing,https://edition640.makingandknowing.org/#/folios/79v/f/79v/tl,Mixture for printers
+080r_1,159,80,302,323,55,0,0,arms and armor,https://edition640.makingandknowing.org/#/folios/80r/f/80r/tl,Petard
+080r_2,159,80,83,92,13,0,0,stones,https://edition640.makingandknowing.org/#/folios/80r/f/80r/tl,Very hard white stucco
+080r_3,159,80,1003,1077,183,0,0,tool,https://edition640.makingandknowing.org/#/folios/80r/f/80r/tl,Fountains
+080v_1,160,80,2160,2407,377,14.53703704,0,casting,https://edition640.makingandknowing.org/#/folios/80v/f/80v/tl,Founders of small works of tin
+081r_1,161,81,781,856,146,22.66325224,0,casting,https://edition640.makingandknowing.org/#/folios/81r/f/81r/tl,Sand
+081r_2,161,81,621,650,123,0,0,casting,https://edition640.makingandknowing.org/#/folios/81r/f/81r/tl,Earth for molding
+081r_3,161,81,468,492,90,0,0,casting,https://edition640.makingandknowing.org/#/folios/81r/f/81r/tl,Plaster
+081r_4,161,81,392,402,73,0,0,casting,https://edition640.makingandknowing.org/#/folios/81r/f/81r/tl,Carton
+081v_1,162,81,197,216,34,0,0,casting,https://edition640.makingandknowing.org/#/folios/81v/f/81v/tl,Sand
+081v_2,162,81,325,335,62,0,0,casting,https://edition640.makingandknowing.org/#/folios/81v/f/81v/tl,Making copper and latten run
+081v_3,162,81,330,370,60,0,0,casting,https://edition640.makingandknowing.org/#/folios/81v/f/81v/tl,Sand
+081v_4,162,81,713,740,138,0,0,casting,https://edition640.makingandknowing.org/#/folios/81v/f/81v/tl,Frame casting
+082r_1,163,82,93,97,18,0,0,casting,https://edition640.makingandknowing.org/#/folios/82r/f/82r/tl, Heat of copper
+082r_2,163,82,206,206,39,0,0,casting,https://edition640.makingandknowing.org/#/folios/82r/f/82r/tl,Frame
+082r_3,163,82,83,96,14,0,0,casting,https://edition640.makingandknowing.org/#/folios/82r/f/82r/tl,Glair of eggs
+082r_4,163,82,1103,1188,192,0,0,tool,https://edition640.makingandknowing.org/#/folios/82r/f/82r/tl,Clockmakers
+082v_1,164,82,208,229,31,0,0,tool,https://edition640.makingandknowing.org/#/folios/82v/f/82v/tl,Clockmakers
+082v_2,164,82,343,381,68,45.18950437,0,casting,https://edition640.makingandknowing.org/#/folios/82v/f/82v/tl,Casting lead in lead
+082v_3,164,82,60,72,12,0,0,casting,https://edition640.makingandknowing.org/#/folios/82v/f/82v/tl,Sand
+082v_4,164,82,1656,1752,302,23.91304348,0,casting,https://edition640.makingandknowing.org/#/folios/82v/f/82v/tl,Method of casting in bronze
+083r_1,165,83,280,311,50,45.71428571,0,casting,https://edition640.makingandknowing.org/#/folios/83r/f/83r/tl,Sand  for lead
+083r_2,165,83,529,563,97,22.4952741,0,casting,https://edition640.makingandknowing.org/#/folios/83r/f/83r/tl,Sand for copper medals
+083r_3,165,83,246,258,41,0,0,casting,https://edition640.makingandknowing.org/#/folios/83r/f/83r/tl,Another sand
+083r_4,165,83,231,244,39,0,0,casting,https://edition640.makingandknowing.org/#/folios/83r/f/83r/tl,Another for lead
+083r_5,165,83,366,397,66,41.53005464,0,casting,https://edition640.makingandknowing.org/#/folios/83r/f/83r/tl,Another
+083r_6,165,83,652,686,117,0,0,casting,https://edition640.makingandknowing.org/#/folios/83r/f/83r/tl,Excellent sand
+083v_1,166,83,298,318,53,0,0,casting,https://edition640.makingandknowing.org/#/folios/83v/f/83v/tl,A way for molding excellently with water
+083v_2,166,83,1607,1740,300,0,0,casting,https://edition640.makingandknowing.org/#/folios/83v/f/83v/tl,  Molding in relief on one part and hollow on the other
+083v_3,166,83,538,596,101,98.14126394,0,tool,https://edition640.makingandknowing.org/#/folios/83v/f/83v/tl,Bellows
+084r_1,167,84,157,160,29,0,0,casting,https://edition640.makingandknowing.org/#/folios/84r/f/84r/tl,Impromptu mask
+084r_3,167,84,272,277,46,0,0,casting,https://edition640.makingandknowing.org/#/folios/84r/f/84r/tl,Sand from a mine in Thoulouse
+084r_4,167,84,54,63,10,0,0,casting,https://edition640.makingandknowing.org/#/folios/84r/f/84r/tl,Eau magistra
+084r_5,167,84,1649,1778,312,10.24863554,48.99939357,casting,https://edition640.makingandknowing.org/#/folios/84r/f/84r/tl,Flour
+084v_1,168,84,807,869,148,14.86988848,0,casting,https://edition640.makingandknowing.org/#/folios/84v/f/84v/tl,Sand
+084v_2,168,84,353,387,62,6.798866856,0,casting,https://edition640.makingandknowing.org/#/folios/84v/f/84v/tl,Eau magistra
+084v_3,168,84,97,116,20,0,0,casting,https://edition640.makingandknowing.org/#/folios/84v/f/84v/tl,Lead
+084v_4,168,84,2667,2929,480,19.87251594,86.57667792,casting,https://edition640.makingandknowing.org/#/folios/84v/f/84v/tl,"Sand for lead, the most excellent of all, for high and low reliefs"
+085r_1,169,85,229,234,43,0,0,varnish,https://edition640.makingandknowing.org/#/folios/85r/f/85r/tl,Green varnish for medals of copper
+085r_2,169,85,110,121,19,0,0,household and daily life,https://edition640.makingandknowing.org/#/folios/85r/f/85r/tl,Glue
+085v_1,170,85,445,457,80,0,0,casting,https://edition640.makingandknowing.org/#/folios/85v/f/85v/tl,Founder
+085v_2,170,85,512,544,92,0,0,tool,https://edition640.makingandknowing.org/#/folios/85v/f/85v/tl,Mortars
+085v_3,170,85,360,391,69,0,0,casting,https://edition640.makingandknowing.org/#/folios/85v/f/85v/tl,Sand from the mine
+085v_4,170,85,4062,4475,737,10.01969473,78.2127031,casting,https://edition640.makingandknowing.org/#/folios/85v/f/85v/tl,Experimented sands
+086v_1,172,86,2856,3038,515,0,53.7464986,casting,https://edition640.makingandknowing.org/#/folios/86v/f/86v/tl,"Excellent sand for lead, tin, and copper"
+087r_1,173,87,349,367,66,0,0,casting,https://edition640.makingandknowing.org/#/folios/87r/f/87r/tl,Sand from Thoulouse
+087v_1,174,87,394,432,69,45.43147208,0,casting,https://edition640.makingandknowing.org/#/folios/87v/f/87v/tl,"Sand, slate, and burned earth"
+087v_2,174,87,186,194,35,0,0,casting,https://edition640.makingandknowing.org/#/folios/87v/f/87v/tl,Magistra
+087v_3,174,87,1993,2186,358,18.11339689,0,casting,https://edition640.makingandknowing.org/#/folios/87v/f/87v/tl,Sand of the mine of Thoulouse
+088r_1,175,88,209,228,40,0,0,cultivation,https://edition640.makingandknowing.org/#/folios/88r/f/88r/tl,Osier
+088r_2,175,88,239,256,45,0,0,tool,https://edition640.makingandknowing.org/#/folios/88r/f/88r/tl,Mortars
+088r_3,175,88,290,310,53,0,0,varnish,https://edition640.makingandknowing.org/#/folios/88r/f/88r/tl,Varnish
+088r_4,175,88,151,168,28,0,0,cultivation,https://edition640.makingandknowing.org/#/folios/88r/f/88r/tl,Grafting
+088r_5,175,88,318,322,56,0,0,household and daily life,https://edition640.makingandknowing.org/#/folios/88r/f/88r/tl,Baker
+088r_6,175,88,50,55,9,0,0,casting,https://edition640.makingandknowing.org/#/folios/88r/f/88r/tl,Looking-glass tin
+088v_1,176,88,693,765,129,0,0,casting,https://edition640.makingandknowing.org/#/folios/88v/f/88v/tl,Sand from pulverized rock salt and sand from the mine finely ground on marble 
+088v_2,176,88,1529,1607,280,10.52975801,0,casting,https://edition640.makingandknowing.org/#/folios/88v/f/88v/tl,Mineral sand
+089r_1,177,89,990,1084,185,0,0,casting,https://edition640.makingandknowing.org/#/folios/89r/f/89r/tl,Sand of burnt ox bones and rock salt
+089r_2,177,89,156,172,27,0,0,casting,https://edition640.makingandknowing.org/#/folios/89r/f/89r/tl,Reheating or drying a molded frame
+089r_3,177,89,109,116,21,0,0,casting,https://edition640.makingandknowing.org/#/folios/89r/f/89r/tl,Natural sand
+089v_1,178,89,1751,1871,310,17.53283838,0,casting,https://edition640.makingandknowing.org/#/folios/89v/f/89v/tl,Sal ammoniac and alabaster
+089v_2,178,89,1052,1152,196,0,0,casting,https://edition640.makingandknowing.org/#/folios/89v/f/89v/tl,"Glassmakers’ white sand from the mine, mixed with sal ammoniac"
+090r_1,179,90,497,531,95,0,0,casting,https://edition640.makingandknowing.org/#/folios/90r/f/90r/tl,Sal ammoniac and iron dross
+090r_2,179,90,137,153,23,0,0,casting,https://edition640.makingandknowing.org/#/folios/90r/f/90r/tl,Sand
+090r_3,179,90,1910,2020,339,0,35.4973822,casting,https://edition640.makingandknowing.org/#/folios/90r/f/90r/tl,That any sand can be rendered good
+090v_1,180,90,223,241,38,0,0,casting,https://edition640.makingandknowing.org/#/folios/90v/f/90v/tl,Terre fondue of potters
+090v_2,180,90,985,1049,171,0,0,cultivation,https://edition640.makingandknowing.org/#/folios/90v/f/90v/tl,Orange trees
+091r_1,181,91,1054,1119,198,0,0,cultivation,https://edition640.makingandknowing.org/#/folios/91r/f/91r/tl,Grafting
+091r_2,181,91,3169,3369,577,4.291574629,55.28557905,casting,https://edition640.makingandknowing.org/#/folios/91r/f/91r/tl,Molding with cuttlefish bone
+092r_1,183,92,254,286,46,0,0,casting,https://edition640.makingandknowing.org/#/folios/92r/f/92r/tl,Sand Mixture easy to melt
+092r_2,183,92,1201,1279,224,0,0,casting,https://edition640.makingandknowing.org/#/folios/92r/f/92r/tl,Molding hollow on one side and in relief on the other
+092r_3,183,92,165,175,29,0,0,metal process,https://edition640.makingandknowing.org/#/folios/92r/f/92r/tl,Potin
+092r_4,183,92,111,119,19,0,0,casting,https://edition640.makingandknowing.org/#/folios/92r/f/92r/tl,Molding statues
+092v_1,184,92,171,184,28,0,0,casting,https://edition640.makingandknowing.org/#/folios/92v/f/92v/tl,Sand from river tellins and mussels
+092v_2,184,92,947,1030,178,0,0,metal process,https://edition640.makingandknowing.org/#/folios/92v/f/92v/tl,Congealing mercury
+092v_3,184,92,242,273,39,0,0,metal process,https://edition640.makingandknowing.org/#/folios/92v/f/92v/tl,Mixture
+093r_1,185,93,143,155,28,0,0,cultivation,https://edition640.makingandknowing.org/#/folios/93r/f/93r/tl,Olives
+093r_2,185,93,213,231,38,0,0,cultivation,https://edition640.makingandknowing.org/#/folios/93r/f/93r/tl,Observation from rustics
+093r_3,185,93,699,740,131,0,0,cultivation,https://edition640.makingandknowing.org/#/folios/93r/f/93r/tl,Grafts
+093r_4,185,93,126,141,25,0,0,casting,https://edition640.makingandknowing.org/#/folios/93r/f/93r/tl,Sand
+093r_5,185,93,257,268,41,0,0,casting,https://edition640.makingandknowing.org/#/folios/93r/f/93r/tl,Sand
+093v_1,186,93,1007,1079,180,0,0,painting,https://edition640.makingandknowing.org/#/folios/93v/f/93v/tl,Face in distemper
+093v_2,186,93,717,775,125,0,0,painting,https://edition640.makingandknowing.org/#/folios/93v/f/93v/tl,Azure
+093v_3,186,93,299,334,57,0,0,painting,https://edition640.makingandknowing.org/#/folios/93v/f/93v/tl,Violet and lake
+094r_1,187,94,11133,12308,2115,0.269469146,76.55618432,arms and armor,https://edition640.makingandknowing.org/#/folios/94r/f/94r/tl,Furbisher
+096v_1,192,96,1071,1146,208,0,0,arms and armor,https://edition640.makingandknowing.org/#/folios/96v/f/96v/tl,Grey guards
+096v_2,192,96,838,901,146,0,0,arms and armor,https://edition640.makingandknowing.org/#/folios/96v/f/96v/tl,Color of water
+096v_3,192,96,321,353,60,0,0,arms and armor,https://edition640.makingandknowing.org/#/folios/96v/f/96v/tl,Yellow varnish
+097r_1,193,97,104,118,21,0,0,arms and armor,https://edition640.makingandknowing.org/#/folios/97r/f/97r/tl,Black varnish
+097r_2,193,97,1315,1408,246,0,0,arms and armor,https://edition640.makingandknowing.org/#/folios/97r/f/97r/tl,Gilding
+097r_3,193,97,667,725,120,0,0,arms and armor,https://edition640.makingandknowing.org/#/folios/97r/f/97r/tl,Gilding with silver
+097v_1,194,97,2686,2878,486,30.23082651,0,varnish,https://edition640.makingandknowing.org/#/folios/97v/f/97v/tl,Mastic varnish dry in a half hour
+097v_2,194,97,189,217,32,0,0,painting,https://edition640.makingandknowing.org/#/folios/97v/f/97v/tl,Working on glass
+098r_1,195,98,307,313,54,0,0,varnish,https://edition640.makingandknowing.org/#/folios/98r/f/98r/tl,Varnish for lutes
+098r_2,195,98,431,459,84,0,0,varnish,https://edition640.makingandknowing.org/#/folios/98r/f/98r/tl,Borders of a garden
+098r_3,195,98,1418,1502,247,0,0,varnish,https://edition640.makingandknowing.org/#/folios/98r/f/98r/tl,Locksmith
+098v_1,196,98,125,136,22,0,0,animal husbandry,https://edition640.makingandknowing.org/#/folios/98v/f/98v/tl,Small dogs
+098v_2,196,98,403,431,71,0,0,cultivation,https://edition640.makingandknowing.org/#/folios/98v/f/98v/tl,Salted artichokes
+098v_3,196,98,70,77,12,0,0,cultivation,https://edition640.makingandknowing.org/#/folios/98v/f/98v/tl,Trees
+098v_4,196,98,356,392,68,0,0,animal husbandry,https://edition640.makingandknowing.org/#/folios/98v/f/98v/tl,Birds
+098v_5,196,98,2427,2647,466,24.51586321,77.83271529,casting,https://edition640.makingandknowing.org/#/folios/98v/f/98v/tl,Founding
+099r_3,197,99,227,241,39,0,0,casting,https://edition640.makingandknowing.org/#/folios/99r/f/99r/tl,Bell handles
+099v_1,198,99,110,116,18,0,0,cultivation,https://edition640.makingandknowing.org/#/folios/99v/f/99v/tl,Quince trees
+099v_2,198,99,839,904,162,30.98927294,0,arms and armor,https://edition640.makingandknowing.org/#/folios/99v/f/99v/tl,Cannons
+099v_3,198,99,66,71,13,0,0,casting,https://edition640.makingandknowing.org/#/folios/99v/f/99v/tl,Bells
+099v_4,198,99,289,308,47,0,0,painting,https://edition640.makingandknowing.org/#/folios/99v/f/99v/tl,Gilding your moldings for panels without gold
+099v_5,198,99,120,126,21,0,0,painting,https://edition640.makingandknowing.org/#/folios/99v/f/99v/tl,Orange from orpiment
+099v_6,198,99,284,292,50,0,0,varnish,https://edition640.makingandknowing.org/#/folios/99v/f/99v/tl,Varnish
+100r_1,199,100,519,562,99,0,0,painting,https://edition640.makingandknowing.org/#/folios/100r/f/100r/tl,Gold color
+100r_2,199,100,127,134,21,0,0,painting,https://edition640.makingandknowing.org/#/folios/100r/f/100r/tl,Portraying from nature
+100r_3,199,100,274,297,50,16.05839416,0,stones,https://edition640.makingandknowing.org/#/folios/100r/f/100r/tl,Gemstones
+100r_4,199,100,364,384,67,0,0,stones,https://edition640.makingandknowing.org/#/folios/100r/f/100r/tl,Vitrified saltpeter
+100r_5,199,100,492,534,89,17.68292683,0,glass process,https://edition640.makingandknowing.org/#/folios/100r/f/100r/tl,Windows that the sun will not pass
+100v_1,200,100,1519,1644,286,24.16063199,0,stones,https://edition640.makingandknowing.org/#/folios/100v/f/100v/tl,Gemstones
+100v_2,200,100,1495,1667,265,22.40802676,62.94314381,stones,https://edition640.makingandknowing.org/#/folios/100v/f/100v/tl,For ruby take gold leaf
+101r_1,201,101,852,915,153,12.79342723,0,stones,https://edition640.makingandknowing.org/#/folios/101r/f/101r/tl,Topaz
+101r_2,201,101,780,827,141,5,25.8974359,metal process,https://edition640.makingandknowing.org/#/folios/101r/f/101r/tl,Salt for melting
+101v_1,202,101,251,303,48,31.87250996,0,stones,https://edition640.makingandknowing.org/#/folios/101v/f/101v/tl,Jacinth
+101v_2,202,101,566,629,103,0,0,stones,https://edition640.makingandknowing.org/#/folios/101v/f/101v/tl,Topaz
+101v_3,202,101,152,167,26,0,0,varnish,https://edition640.makingandknowing.org/#/folios/101v/f/101v/tl,Varnish
+101v_4,202,101,181,190,33,0,0,painting,https://edition640.makingandknowing.org/#/folios/101v/f/101v/tl,Gum ammoniac
+102r_1,203,102,259,293,52,0,0,metal process,https://edition640.makingandknowing.org/#/folios/102r/f/102r/tl,Provisions for the work of Colchis
+102r_2,203,102,287,307,57,0,0,metal process,https://edition640.makingandknowing.org/#/folios/102r/f/102r/tl,For the furnace
+102r_3,203,102,88,96,15,0,0,metal process,https://edition640.makingandknowing.org/#/folios/102r/f/102r/tl,Ciment royal
+102r_4,203,102,325,364,57,0,0,glass process,https://edition640.makingandknowing.org/#/folios/102r/f/102r/tl,Glass vessels
+102v_1,204,102,578,614,109,0,0,painting,https://edition640.makingandknowing.org/#/folios/102v/f/102v/tl,Painting on crystal or glass
+102v_2,204,102,680,729,125,0,0,medicine,https://edition640.makingandknowing.org/#/folios/102v/f/102v/tl,Infusion of anthos or rosemary
+102v_3,204,102,457,505,81,0,0,casting,https://edition640.makingandknowing.org/#/folios/102v/f/102v/tl,Cast
+103r_1,205,103,1425,1530,251,0,0,medicine,https://edition640.makingandknowing.org/#/folios/103r/f/103r/tl,"Against burns, excellent"
+103r_2,205,103,309,343,56,0,0,medicine,https://edition640.makingandknowing.org/#/folios/103r/f/103r/tl,Against dogs’ mange
+103v_1,206,103,257,280,48,0,0,medicine,https://edition640.makingandknowing.org/#/folios/103v/f/103v/tl,Enema
+103v_2,206,103,269,302,48,0,0,casting,https://edition640.makingandknowing.org/#/folios/103v/f/103v/tl,Cast
+103v_3,206,103,253,264,50,0,0,painting,https://edition640.makingandknowing.org/#/folios/103v/f/103v/tl,For making colors run
+103v_4,206,103,180,205,33,0,0,medicine,https://edition640.makingandknowing.org/#/folios/103v/f/103v/tl,Earwax
+103v_5,206,103,228,248,41,0,0,painting,https://edition640.makingandknowing.org/#/folios/103v/f/103v/tl,Enamels
+104r_1,207,104,229,263,45,0,0,metal process,https://edition640.makingandknowing.org/#/folios/104r/f/104r/tl,For eating away and dissolving entirely pure gold
+104r_2,207,104,481,494,96,0,0,metal process,https://edition640.makingandknowing.org/#/folios/104r/f/104r/tl,For engraving on iron
+104r_3,207,104,154,166,27,0,0,painting,https://edition640.makingandknowing.org/#/folios/104r/f/104r/tl,Good mixture to color gold
+104r_4,207,104,284,314,52,0,0,metal process,https://edition640.makingandknowing.org/#/folios/104r/f/104r/tl,For gilding with silver on copper and latten
+104r_5,207,104,311,321,55,0,0,painting,https://edition640.makingandknowing.org/#/folios/104r/f/104r/tl,Enameling a cornaline
+104v_1,208,104,265,290,47,0,0,medicine,https://edition640.makingandknowing.org/#/folios/104v/f/104v/tl,Against dogs’ mange
+104v_2,208,104,666,691,128,0,0,casting,https://edition640.makingandknowing.org/#/folios/104v/f/104v/tl,For casting
+104v_3,208,104,151,171,24,0,0,metal process,https://edition640.makingandknowing.org/#/folios/104v/f/104v/tl,Goldsmith
+104v_4,208,104,336,378,55,0,0,household and daily life,https://edition640.makingandknowing.org/#/folios/104v/f/104v/tl,Spinet playing by itself
+105r_1,209,105,244,271,46,0,0,animal husbandry,https://edition640.makingandknowing.org/#/folios/105r/f/105r/tl,Turtles
+105r_2,209,105,107,117,19,0,0,painting,https://edition640.makingandknowing.org/#/folios/105r/f/105r/tl,Drying colors
+105r_3,209,105,186,210,30,0,0,painting,https://edition640.makingandknowing.org/#/folios/105r/f/105r/tl,Painter
+105r_4,209,105,2300,2549,421,0,42.2173913,cultivation,https://edition640.makingandknowing.org/#/folios/105r/f/105r/tl,Gardening
+105v_1,210,105,179,196,32,0,0,cultivation,https://edition640.makingandknowing.org/#/folios/105v/f/105v/tl,Nightingale
+105v_2,210,105,196,216,32,0,0,tool,https://edition640.makingandknowing.org/#/folios/105v/f/105v/tl,Nightingale
+105v_3,210,105,902,968,169,16.18625277,0,animal husbandry,https://edition640.makingandknowing.org/#/folios/105v/f/105v/tl,Gardening
+105v_4,210,105,501,942,96,97.60479042,0,animal husbandry,https://edition640.makingandknowing.org/#/folios/105v/f/105v/tl,Fountain maker
+105v_5,210,105,387,868,72,97.15762274,0,animal husbandry,https://edition640.makingandknowing.org/#/folios/105v/f/105v/tl,Catching nightingales  See the 15th folio after this
+106r_1,211,106,261,275,50,0,0,casting,https://edition640.makingandknowing.org/#/folios/106r/f/106r/tl,For casting
+106r_2,211,106,1954,2139,358,6.141248721,0,casting,https://edition640.makingandknowing.org/#/folios/106r/f/106r/tl,Making gold run for casting
+106v_1,212,106,566,613,101,0,0,casting,https://edition640.makingandknowing.org/#/folios/106v/f/106v/tl,Casting in gold
+106v_2,212,106,3206,3804,590,62.38303182,22.20835933,casting,https://edition640.makingandknowing.org/#/folios/106v/f/106v/tl,Plaster
+106v_3,212,106,490,663,86,17.55102041,0,casting,https://edition640.makingandknowing.org/#/folios/106v/f/106v/tl,Tiles
+107r_1,213,107,5925,6431,1067,15.51054852,65.70464135,casting,https://edition640.makingandknowing.org/#/folios/107r/f/107r/tl,Catching lizards and snakes
+108r_2,215,108,3385,3660,623,20.64992614,84.10635155,casting,https://edition640.makingandknowing.org/#/folios/108r/f/108r/tl,Spalt
+109r_1,217,109,293,321,60,0,0,casting,https://edition640.makingandknowing.org/#/folios/109r/f/109r/tl,Modeling in wax
+109r_2,217,109,465,492,86,0.64516129,0,casting,https://edition640.makingandknowing.org/#/folios/109r/f/109r/tl,Wax for molding -
+109r_3,217,109,427,485,77,38.64168618,0,casting,https://edition640.makingandknowing.org/#/folios/109r/f/109r/tl,Molding wax
+109r_4,217,109,254,277,48,0,0,casting,https://edition640.makingandknowing.org/#/folios/109r/f/109r/tl,Bellows of the forge
+109r_5,217,109,1384,1468,261,0,65.96820809,casting,https://edition640.makingandknowing.org/#/folios/109r/f/109r/tl,Snakes for molding
+109v_1,218,109,808,910,154,49.62871287,0,casting,https://edition640.makingandknowing.org/#/folios/109v/f/109v/tl,Toad
+109v_2,218,109,699,747,125,30.04291845,0,casting,https://edition640.makingandknowing.org/#/folios/109v/f/109v/tl,Killing snakes for molding
+110r_1,219,110,170,182,32,0,0,casting,https://edition640.makingandknowing.org/#/folios/110r/f/110r/tl,Molding
+110r_2,219,110,414,420,70,0,0,decorative,https://edition640.makingandknowing.org/#/folios/110r/f/110r/tl,Rock & grotto
+110r_3,219,110,1753,1942,331,13.23445522,12.4358243,casting,https://edition640.makingandknowing.org/#/folios/110r/f/110r/tl,Snakes
+110v_1,220,110,461,524,81,0,0,casting,https://edition640.makingandknowing.org/#/folios/110v/f/110v/tl,Molds
+110v_2,220,110,668,720,124,46.70658683,0,casting,https://edition640.makingandknowing.org/#/folios/110v/f/110v/tl,Wheat oil
+110v_3,220,110,873,991,167,15.00572738,0,casting,https://edition640.makingandknowing.org/#/folios/110v/f/110v/tl,Cast of lead and tin
+111r_1,221,111,404,419,65,0,0,casting,https://edition640.makingandknowing.org/#/folios/111r/f/111r/tl,Reheating molds
+111r_2,221,111,182,207,32,0,0,casting,https://edition640.makingandknowing.org/#/folios/111r/f/111r/tl,Latten smoke
+111r_3,221,111,107,121,22,0,0,casting,https://edition640.makingandknowing.org/#/folios/111r/f/111r/tl,For red copper
+111r_4,221,111,478,536,87,17.36401674,0,casting,https://edition640.makingandknowing.org/#/folios/111r/f/111r/tl,Clay earth
+111r_5,221,111,657,728,118,0.456621005,0,casting,https://edition640.makingandknowing.org/#/folios/111r/f/111r/tl,Iron wire
+111v_1,222,111,182,215,33,0,0,casting,https://edition640.makingandknowing.org/#/folios/111v/f/111v/tl,Sal ammoniac wate[e]r
+111v_2,222,111,151,165,25,0,0,casting,https://edition640.makingandknowing.org/#/folios/111v/f/111v/tl,Sanguine
+111v_3,222,111,133,145,22,0,0,casting,https://edition640.makingandknowing.org/#/folios/111v/f/111v/tl,Crab and crayfish
+111v_4,222,111,780,854,147,35.25641026,0,casting,https://edition640.makingandknowing.org/#/folios/111v/f/111v/tl,Lizards
+111v_5,222,111,889,986,163,30.70866142,0,casting,https://edition640.makingandknowing.org/#/folios/111v/f/111v/tl,Composition of sand
+112r_1,223,112,428,473,75,31.07476636,0,casting,https://edition640.makingandknowing.org/#/folios/112r/f/112r/tl,For tempering sand
+112r_2,223,112,34,40,5,0,0,casting,https://edition640.makingandknowing.org/#/folios/112r/f/112r/tl,Decoction of sands
+112r_3,223,112,521,583,94,11.70825336,0,casting,https://edition640.makingandknowing.org/#/folios/112r/f/112r/tl,For molding en noyau. Mixture of sand
+112r_4,223,112,1931,2112,361,26.10046608,39.51320559,casting,https://edition640.makingandknowing.org/#/folios/112r/f/112r/tl,Putting to death the animal for molding
+112v_1,224,112,5724,6283,1039,31.65618449,50.55904962,casting,https://edition640.makingandknowing.org/#/folios/112v/f/112v/tl,Molding Making the arrangement and disposition of the animal
+113r_1,225,113,3494,4002,639,30.56668575,78.10532341,casting,https://edition640.makingandknowing.org/#/folios/113r/f/113r/tl,Tempering the sand and molding the first cast
+113v_1,226,113,13,40,2,0,0,casting,https://edition640.makingandknowing.org/#/folios/113v/f/113v/tl,Second cast
+114r_1,227,114,7369,8051,1321,38.60768083,55.66562627,casting,https://edition640.makingandknowing.org/#/folios/114r/f/114r/tl,Second cast
+115r_1,229,115,1131,1474,219,0,0,casting,https://edition640.makingandknowing.org/#/folios/115r/f/115r/tl,"Making the cast, reheating the molds, &c  Note about everything  above "
+115r_2,229,115,689,723,128,0,0,casting,https://edition640.makingandknowing.org/#/folios/115r/f/115r/tl,Animal after release
+115r_3,229,115,483,536,91,0,0,casting,https://edition640.makingandknowing.org/#/folios/115r/f/115r/tl,Reheating of Molds
+115v_1,230,115,1031,1119,188,26.8671193,0,casting,https://edition640.makingandknowing.org/#/folios/115v/f/115v/tl,Cast of tin
+115v_2,230,115,310,338,56,0,0,casting,https://edition640.makingandknowing.org/#/folios/115v/f/115v/tl,For giving venting to the mold
+115v_3,230,115,2408,2642,441,47.54983389,15.61461794,casting,https://edition640.makingandknowing.org/#/folios/115v/f/115v/tl,Reheating the noyau molds
+116r_1,231,116,532,736,98,0,0,casting,https://edition640.makingandknowing.org/#/folios/116r/f/116r/tl,"Molding bouquets, plants, and flowers"
+116r_2,231,116,1258,1394,231,23.84737679,0,casting,https://edition640.makingandknowing.org/#/folios/116r/f/116r/tl,"Molding with en noyau, with the same sand, wax images, or lead medals and suchlike"
+116r_3,231,116,335,348,64,0,0,casting,https://edition640.makingandknowing.org/#/folios/116r/f/116r/tl,Casting for gold and silver
+116r_4,231,116,516,598,88,0,0,metal process,https://edition640.makingandknowing.org/#/folios/116r/f/116r/tl,A way to grind enamel gold very delicate gold rose e leaves and others
+116v_1,232,116,704,766,126,17.47159091,0,casting,https://edition640.makingandknowing.org/#/folios/116v/f/116v/tl,Molding snakes in all weather
+116v_2,232,116,1537,1637,286,36.49967469,0,casting,https://edition640.makingandknowing.org/#/folios/116v/f/116v/tl,Mixture of tin and lead
+116v_3,232,116,673,738,131,0,0,casting,https://edition640.makingandknowing.org/#/folios/116v/f/116v/tl,Cast for copper and latten
+117r_1,233,117,2792,3038,520,9.670487106,0,casting,https://edition640.makingandknowing.org/#/folios/117r/f/117r/tl,A means of molding flowers and plants
+117v_1,234,117,1323,1428,237,39.90929705,0,casting,https://edition640.makingandknowing.org/#/folios/117v/f/117v/tl,For making the ashes of flowers and plants leave molds
+117v_2,234,117,220,234,37,0,0,casting,https://edition640.makingandknowing.org/#/folios/117v/f/117v/tl,Daisies
+117v_3,234,117,174,188,36,0,0,casting,https://edition640.makingandknowing.org/#/folios/117v/f/117v/tl,Sand that was used
+117v_4,234,117,585,645,103,6.837606838,0,casting,https://edition640.makingandknowing.org/#/folios/117v/f/117v/tl,Molding à noyau figures of wax or medals of lead
+117v_5,234,117,273,300,50,0,0,casting,https://edition640.makingandknowing.org/#/folios/117v/f/117v/tl,Blood of snakes
+118r_1,235,118,276,294,46,0,0,casting,https://edition640.makingandknowing.org/#/folios/118r/f/118r/tl,Snails
+118r_2,235,118,422,448,80,0,0,casting,https://edition640.makingandknowing.org/#/folios/118r/f/118r/tl,For removing flashing and barbs from things molded à noyau
+118r_3,235,118,1028,1115,183,16.63424125,0,decorative,https://edition640.makingandknowing.org/#/folios/118r/f/118r/tl,For grottos
+118r_4,235,118,159,188,32,0,0,casting,https://edition640.makingandknowing.org/#/folios/118r/f/118r/tl,Looking-glass tin
+118r_5,235,118,87,96,17,0,0,casting,https://edition640.makingandknowing.org/#/folios/118r/f/118r/tl,Sal ammoniac
+118v_1,236,118,4642,5191,847,24.92460146,27.61740629,casting,https://edition640.makingandknowing.org/#/folios/118v/f/118v/tl,Casting in frames
+119r_1,237,119,1224,1319,223,0,0,casting,https://edition640.makingandknowing.org/#/folios/119r/f/119r/tl,Advice about the above
+119v_1,238,119,1943,2108,363,18.11631498,0,casting,https://edition640.makingandknowing.org/#/folios/119v/f/119v/tl,Fashion of preparing a spalt spat
+119v_2,238,119,643,690,117,0,0,casting,https://edition640.makingandknowing.org/#/folios/119v/f/119v/tl,Excellent secret for molding hollow and very delicately in fine gold
+120r_1,239,120,415,443,80,0,0,casting,https://edition640.makingandknowing.org/#/folios/120r/f/120r/tl,Stamped medals from wax
+120r_2,239,120,1318,1489,244,59.1047041,0,casting,https://edition640.makingandknowing.org/#/folios/120r/f/120r/tl,Sand for casting in gold
+120r_3,239,120,1485,1561,280,0,9.898989899,casting,https://edition640.makingandknowing.org/#/folios/120r/f/120r/tl,IlNightingale -
+120v_1,240,120,241,260,43,51.86721992,0,casting,https://edition640.makingandknowing.org/#/folios/120v/f/120v/tl,Crocum ferri
+120v_2,240,120,119,126,19,0,0,preserving,https://edition640.makingandknowing.org/#/folios/120v/f/120v/tl,Anatomy
+120v_3,240,120,662,776,117,7.552870091,0,casting,https://edition640.makingandknowing.org/#/folios/120v/f/120v/tl,Making silver run
+120v_6,240,120,3622,4053,661,38.04527885,54.14135837,preserving,https://edition640.makingandknowing.org/#/folios/120v/f/120v/tl,Keeping dry flowers in the same   state all year
+121r_1,241,121,712,778,138,18.3988764,0,preserving,https://edition640.makingandknowing.org/#/folios/121r/f/121r/tl,For keeping fruits all year
+121v_1,242,121,1324,1424,248,25.98187311,0,casting,https://edition640.makingandknowing.org/#/folios/121v/f/121v/tl,For casting in silver
+121v_2,242,121,1472,1609,260,31.58967391,0,casting,https://edition640.makingandknowing.org/#/folios/121v/f/121v/tl,Silver for casting
+122r_1,243,122,1178,1305,214,0,0,casting,https://edition640.makingandknowing.org/#/folios/122r/f/122r/tl,Arranging various animals
+122r_2,243,122,848,904,151,0,0,casting,https://edition640.makingandknowing.org/#/folios/122r/f/122r/tl,Flower in the mouth of the snake
+122v_1,244,122,437,460,73,0,0,casting,https://edition640.makingandknowing.org/#/folios/122v/f/122v/tl,Cleaning the bowl and the spoon with which one tempers the sand
+122v_2,244,122,509,533,90,24.95088409,0,casting,https://edition640.makingandknowing.org/#/folios/122v/f/122v/tl,Molding hollow
+122v_3,244,122,849,934,159,0,0,casting,https://edition640.makingandknowing.org/#/folios/122v/f/122v/tl,Molding medals and flat things
+123r_1,245,123,4769,5420,854,25.56091424,56.19626756,metal process,https://edition640.makingandknowing.org/#/folios/123r/f/123r/tl, A means di far correr lotnegra
+124r_1,247,124,933,981,166,0,0,casting,https://edition640.makingandknowing.org/#/folios/124r/f/124r/tl,Animals with hair and fragile and very thin flowers
+124r_2,247,124,252,270,45,0,0,casting,https://edition640.makingandknowing.org/#/folios/124r/f/124r/tl,Noyaulx for molding hollow
+124r_3,247,124,327,350,60,0,0,casting,https://edition640.makingandknowing.org/#/folios/124r/f/124r/tl,Spider’s web
+124r_4,247,124,276,302,50,0,0,casting,https://edition640.makingandknowing.org/#/folios/124r/f/124r/tl,Fine gold 
+124v_1,248,124,577,674,109,0,0,painting,https://edition640.makingandknowing.org/#/folios/124v/f/124v/tl,Rouge clair  enamel
+124v_2,248,124,851,962,156,37.72032902,0,casting,https://edition640.makingandknowing.org/#/folios/124v/f/124v/tl,Casting in gold
+124v_3,248,124,2051,2285,384,30.66796685,44.07606046,casting,https://edition640.makingandknowing.org/#/folios/124v/f/124v/tl,A means to make the gate for small female lizards
+125r_1,249,125,1407,1744,255,53.9445629,0,casting,https://edition640.makingandknowing.org/#/folios/125r/f/125r/tl,Plaster
+125r_2,249,125,522,581,95,1.724137931,0,arms and armor,https://edition640.makingandknowing.org/#/folios/125r/f/125r/tl,Scimitars
+125r_3,249,125,145,250,27,0,0,tricks and sleight of hand,https://edition640.makingandknowing.org/#/folios/125r/f/125r/tl,Hearing from afar
+125v_1,250,125,848,920,154,17.33490566,0,casting,https://edition640.makingandknowing.org/#/folios/125v/f/125v/tl,Vipers and snakes
+125v_2,250,125,281,298,46,0,0,casting,https://edition640.makingandknowing.org/#/folios/125v/f/125v/tl,Molding turtles
+125v_3,250,125,1164,1290,207,15.29209622,0,casting,https://edition640.makingandknowing.org/#/folios/125v/f/125v/tl,Plaster for casting of wax
+126r_1,251,126,2478,2674,461,28.36965295,0,casting,https://edition640.makingandknowing.org/#/folios/126r/f/126r/tl,Molding fruits and animals in sugar
+126v_1,252,126,789,846,148,20.02534854,0,casting,https://edition640.makingandknowing.org/#/folios/126v/f/126v/tl,Crocum ferri
+126v_2,252,126,720,779,135,23.05555556,0,casting,https://edition640.makingandknowing.org/#/folios/126v/f/126v/tl,Plaster
+126v_3,252,126,2083,2248,365,13.73019683,66.82669227,casting,https://edition640.makingandknowing.org/#/folios/126v/f/126v/tl,Plants difficult to burn in the noyau
+127r_1,253,127,597,638,106,0,0,casting,https://edition640.makingandknowing.org/#/folios/127r/f/127r/tl,Molds of plaster for wax
+127v_1,254,127,3199,3567,591,35.01094092,0,casting,https://edition640.makingandknowing.org/#/folios/127v/f/127v/tl,Founders’ earth
+128r_1,255,128,4771,5326,848,28.65227416,39.00649759,casting,https://edition640.makingandknowing.org/#/folios/128r/f/128r/tl,Casting in silver and gold
+128v_1,256,128,1731,1936,311,30.73367995,0,casting,https://edition640.makingandknowing.org/#/folios/128v/f/128v/tl,Whitening of cast silver
+129r_1,257,129,379,415,70,0,0,painting,https://edition640.makingandknowing.org/#/folios/129r/f/129r/tl,Painting plants of metal
+129r_2,257,129,227,245,42,0,0,painting,https://edition640.makingandknowing.org/#/folios/129r/f/129r/tl,For wormseed
+129r_3,257,129,689,763,122,11.32075472,0,casting,https://edition640.makingandknowing.org/#/folios/129r/f/129r/tl,Viper color
+129r_4,257,129,436,451,72,0,0,casting,https://edition640.makingandknowing.org/#/folios/129r/f/129r/tl,Molded roses
+129v_1,258,129,821,909,150,60.65773447,0,preserving,https://edition640.makingandknowing.org/#/folios/129v/f/129v/tl,Animals dried in the oven for a long time
+129v_2,258,129,155,180,26,0,0,casting,https://edition640.makingandknowing.org/#/folios/129v/f/129v/tl,Animals cast in copper
+129v_3,258,129,485,530,88,21.8556701,0,casting,https://edition640.makingandknowing.org/#/folios/129v/f/129v/tl,Advice concerning the gate
+129v_4,258,129,2043,2191,376,42.97601566,0,casting,https://edition640.makingandknowing.org/#/folios/129v/f/129v/tl,Spider molded on a leaf
+130r_1,259,130,1122,1182,206,6.684491979,0,preserving,https://edition640.makingandknowing.org/#/folios/130r/f/130r/tl,Animals dried in an oven
+130r_2,259,130,208,216,36,0,0,tricks and sleight of hand,https://edition640.makingandknowing.org/#/folios/130r/f/130r/tl,"For reddening live crayfish, which will seem boiled"
+130r_3,259,130,507,568,94,50.29585799,0,casting,https://edition640.makingandknowing.org/#/folios/130r/f/130r/tl,Molding a single spider
+130r_4,259,130,357,385,66,0,0,casting,https://edition640.makingandknowing.org/#/folios/130r/f/130r/tl,Molding a single vine leaf
+130v_1,260,130,1480,1670,268,9.662162162,0,casting,https://edition640.makingandknowing.org/#/folios/130v/f/130v/tl,Molding a crab
+130v_2,260,130,114,126,21,0,0,casting,https://edition640.makingandknowing.org/#/folios/130v/f/130v/tl,Stag beetle
+130v_3,260,130,450,490,85,0,0,casting,https://edition640.makingandknowing.org/#/folios/130v/f/130v/tl,For molding thin
+131r_1,261,131,177,194,33,3.389830508,0,casting,https://edition640.makingandknowing.org/#/folios/131r/f/131r/tl,Plants that are awkward to burn in the mold
+131r_2,261,131,263,282,48,0,0,casting,https://edition640.makingandknowing.org/#/folios/131r/f/131r/tl,Letters and molded paper
+131r_3,261,131,369,402,63,0,0,decorative,https://edition640.makingandknowing.org/#/folios/131r/f/131r/tl,"For adorning beds, mirrors, and suchlike"
+131r_4,261,131,266,287,47,0,0,household and daily life,https://edition640.makingandknowing.org/#/folios/131r/f/131r/tl,For teaching a dogei well
+131r_5,261,131,1293,1395,236,19.64423821,50.73472544,casting,https://edition640.makingandknowing.org/#/folios/131r/f/131r/tl,Molded waxes
+131v_1,262,131,1878,2120,362,28.70074547,11.66134185,casting,https://edition640.makingandknowing.org/#/folios/131v/f/131v/tl,When the cast of tin or lead becomes porous
+132r_1,263,132,680,730,126,25.73529412,0,casting,https://edition640.makingandknowing.org/#/folios/132r/f/132r/tl,Mold made in two casts
+132r_2,263,132,1725,1866,323,24.57971014,8.985507246,casting,https://edition640.makingandknowing.org/#/folios/132r/f/132r/tl,Method for reheating the molds
+132v_1,264,132,100,113,19,0,0,casting,https://edition640.makingandknowing.org/#/folios/132v/f/132v/tl,Common sand from the mine
+132v_2,264,132,1660,1882,305,34.39759036,0,casting,https://edition640.makingandknowing.org/#/folios/132v/f/132v/tl,Crocum ferri
+132v_3,264,132,122,144,19,0,0,casting,https://edition640.makingandknowing.org/#/folios/132v/f/132v/tl,Gilding animals cast in silver
+133r_1,265,133,363,400,67,0,0,wax process,https://edition640.makingandknowing.org/#/folios/133r/f/133r/tl,Hard wax for imprinting seals
+133r_2,265,133,573,637,105,18.32460733,0,casting,https://edition640.makingandknowing.org/#/folios/133r/f/133r/tl,Feet of smalls female lizards for gold and silver
+133r_3,265,133,751,789,142,0,0,casting,https://edition640.makingandknowing.org/#/folios/133r/f/133r/tl,Marks from the points of iron wire which are found on the head of the animal
+133r_4,265,133,501,543,95,0.598802395,0,casting,https://edition640.makingandknowing.org/#/folios/133r/f/133r/tl,Clamps and broken mold
+133v_1,266,133,465,508,79,11.1827957,0,casting,https://edition640.makingandknowing.org/#/folios/133v/f/133v/tl,Bubbles and little holes which are found in the mold
+133v_2,266,133,977,1052,175,0,0,casting,https://edition640.makingandknowing.org/#/folios/133v/f/133v/tl,Thing that does not release
+133v_3,266,133,2306,2538,406,0,51.51777971,casting,https://edition640.makingandknowing.org/#/folios/133v/f/133v/tl,Various animals entwined
+134r_1,267,134,697,788,123,0,0,casting,https://edition640.makingandknowing.org/#/folios/134r/f/134r/tl,For mending a pierced mold
+134r_2,267,134,360,386,63,12.5,0,casting,https://edition640.makingandknowing.org/#/folios/134r/f/134r/tl,Sand of crocum
+134v_1,268,134,660,745,118,18.03030303,0,metal process,https://edition640.makingandknowing.org/#/folios/134v/f/134v/tl,For making ☀ run
+134v_2,268,134,234,261,43,29.91452991,0,casting,https://edition640.makingandknowing.org/#/folios/134v/f/134v/tl,  For casting of gold in large works
+134v_3,268,134,706,744,133,0,0,casting,https://edition640.makingandknowing.org/#/folios/134v/f/134v/tl,Secret for soldering gold and silver in small works
+135r_1,269,135,385,442,66,3.116883117,0,casting,https://edition640.makingandknowing.org/#/folios/135r/f/135r/tl,Couleur for gold or mixture
+135r_2,269,135,1080,1181,200,26.57407407,0,casting,https://edition640.makingandknowing.org/#/folios/135r/f/135r/tl,Gate
+135r_3,269,135,1108,1158,190,14.07942238,0,casting,https://edition640.makingandknowing.org/#/folios/135r/f/135r/tl,Vine leaf and small frog
+135v_1,270,135,3335,3647,631,9.895052474,37.57121439,casting,https://edition640.makingandknowing.org/#/folios/135v/f/135v/tl,Casting in ☼
+136r_1,271,136,123,143,19,0,0,casting,https://edition640.makingandknowing.org/#/folios/136r/f/136r/tl,DEsm Enamelling thin works
+136v_1,272,136,2682,2906,488,27.25577927,0,casting,https://edition640.makingandknowing.org/#/folios/136v/f/136v/tl,For casting in latten
+137r_1,273,137,1259,1391,233,23.11358221,0,casting,https://edition640.makingandknowing.org/#/folios/137r/f/137r/tl,For casting in red copper
+137r_2,273,137,794,838,140,46.59949622,0,casting,https://edition640.makingandknowing.org/#/folios/137r/f/137r/tl,Huile tingente to make metals run
+137r_3,273,137,259,280,46,0,0,casting,https://edition640.makingandknowing.org/#/folios/137r/f/137r/tl,Clamps
+137v_1,274,137,4885,5346,871,25.83418628,50.66530194,casting,https://edition640.makingandknowing.org/#/folios/137v/f/137v/tl,Tempering sand for molds of flat medals
+138v_1,276,138,406,454,74,0,0,casting,https://edition640.makingandknowing.org/#/folios/138v/f/138v/tl,Talcum mixed in the molds
+138v_2,276,138,652,709,114,0,0,casting,https://edition640.makingandknowing.org/#/folios/138v/f/138v/tl,Gold cast very thinly
+138v_3,276,138,517,555,96,0,0,stones,https://edition640.makingandknowing.org/#/folios/138v/f/138v/tl,Counterfeit diamonds put in a work
+139r_1,277,139,2903,3189,548,24.97416466,6.338270754,casting,https://edition640.makingandknowing.org/#/folios/139r/f/139r/tl,Casting of lead and tin
+139v_1,278,139,5246,5698,985,18.96683187,55.83301563,casting,https://edition640.makingandknowing.org/#/folios/139v/f/139v/tl,Cast of wax to represent an animal that one has not got
+140v_1,280,140,299,323,54,34.11371237,0,casting,https://edition640.makingandknowing.org/#/folios/140v/f/140v/tl,For casting in sulfur
+140v_2,280,140,609,646,109,0,0,casting,https://edition640.makingandknowing.org/#/folios/140v/f/140v/tl,Casting of lead and tin in plaster
+140v_3,280,140,1548,1986,292,52.97157623,0,casting,https://edition640.makingandknowing.org/#/folios/140v/f/140v/tl,Molding and shrinking a large figure
+141r_1,281,141,8633,9441,1564,32.02826364,65.4002085,casting,https://edition640.makingandknowing.org/#/folios/141r/f/141r/tl,Molding a crayfish
+142v_1,284,142,1293,1407,239,36.89095128,0,casting,https://edition640.makingandknowing.org/#/folios/142v/f/142v/tl,Molding grasshoppers and things too thin
+142v_2,284,142,561,628,104,62.03208556,0,casting,https://edition640.makingandknowing.org/#/folios/142v/f/142v/tl,Molds
+142v_3,284,142,538,569,96,0,0,casting,https://edition640.makingandknowing.org/#/folios/142v/f/142v/tl,Lute for luting your molds
+143r_1,285,143,1486,1607,257,32.57065949,0,casting,https://edition640.makingandknowing.org/#/folios/143r/f/143r/tl,Molding turtles
+143r_2,285,143,393,418,68,0,0,casting,https://edition640.makingandknowing.org/#/folios/143r/f/143r/tl,Molders from Foix
+143r_3,285,143,1297,1429,241,6.168080185,51.65767155,casting,https://edition640.makingandknowing.org/#/folios/143r/f/143r/tl,Toad
+143v_1,286,143,408,440,72,0,0,casting,https://edition640.makingandknowing.org/#/folios/143v/f/143v/tl,Carcanets made à jour
+143v_2,286,143,265,286,50,0,0,casting,https://edition640.makingandknowing.org/#/folios/143v/f/143v/tl,Iron filings
+143v_3,286,143,161,172,27,0,0,casting,https://edition640.makingandknowing.org/#/folios/143v/f/143v/tl,Carnations
+144r_1,287,144,5047,5572,909,8.955815336,54.90390331,casting,https://edition640.makingandknowing.org/#/folios/144r/f/144r/tl,Turtles
+145r_1,289,145,345,399,62,2.608695652,0,casting,https://edition640.makingandknowing.org/#/folios/145r/f/145r/tl,Casting in three frames
+145r_2,289,145,2725,2922,483,0,35.19266055,casting,https://edition640.makingandknowing.org/#/folios/145r/f/145r/tl,Cuttlefish bone
+145v_1,290,145,3523,3856,655,28.32812944,78.59778598,casting,https://edition640.makingandknowing.org/#/folios/145v/f/145v/tl,#NAME?
+145v_2,290,145,762,1181,142,83.59580052,0,casting,https://edition640.makingandknowing.org/#/folios/145v/f/145v/tl,Molding plants and flowers
+146v_1,292,146,4184,4512,766,4.349904398,50.11950287,casting,https://edition640.makingandknowing.org/#/folios/146v/f/146v/tl,Molding turtles
+147v_1,294,147,524,598,100,0,0,casting,https://edition640.makingandknowing.org/#/folios/147v/f/147v/tl,"+ Casting of copper alloyed with ☾, which is like very base solder / ard[illegible] and old K and some R[illegible] out of xii"
+147v_2,294,147,146,166,29,0,0,casting,https://edition640.makingandknowing.org/#/folios/147v/f/147v/tl,Lute
+147v_3,294,147,159,179,27,0,0,casting,https://edition640.makingandknowing.org/#/folios/147v/f/147v/tl,Crucible
+147v_4,294,147,1185,1331,218,26.41350211,16.03375527,casting,https://edition640.makingandknowing.org/#/folios/147v/f/147v/tl,Casting of latten
+148r_1,295,148,173,186,30,0,0,casting,https://edition640.makingandknowing.org/#/folios/148r/f/148r/tl,Beautiful color for latten
+148r_2,295,148,511,535,91,0,0,metal process,https://edition640.makingandknowing.org/#/folios/148r/f/148r/tl,Whitening
+148r_3,295,148,285,311,55,5.263157895,0,casting,https://edition640.makingandknowing.org/#/folios/148r/f/148r/tl,"Molding the foot of the bittern, or of the eagle, or of other birds for the foot of saltcellars or vases"
+148r_4,295,148,377,387,65,0,0,casting,https://edition640.makingandknowing.org/#/folios/148r/f/148r/tl,Crocum ferri
+148v_1,296,148,1973,2146,355,2.736948809,0,casting,https://edition640.makingandknowing.org/#/folios/148v/f/148v/tl,Molding turtles
+149r_1,297,149,429,459,80,0,0,metal process,https://edition640.makingandknowing.org/#/folios/149r/f/149r/tl,Softening iron and rendering it very soft
+149r_2,297,149,406,451,65,0,0,metal process,https://edition640.makingandknowing.org/#/folios/149r/f/149r/tl,"Base gold from Germany, electrum"
+149r_3,297,149,367,390,63,0,0,metal process,https://edition640.makingandknowing.org/#/folios/149r/f/149r/tl,Various arts from Germany
+149r_4,297,149,208,221,35,0,0,casting,https://edition640.makingandknowing.org/#/folios/149r/f/149r/tl,Repairing a medal
+149v_1,298,149,288,318,50,0,0,casting,https://edition640.makingandknowing.org/#/folios/149v/f/149v/tl,Molding vases in several pieces
+149v_2,298,149,93,114,17,0,0,metal process,https://edition640.makingandknowing.org/#/folios/149v/f/149v/tl,Gold solder
+149v_3,298,149,789,845,134,32.31939163,0,casting,https://edition640.makingandknowing.org/#/folios/149v/f/149v/tl,Molding a fly
+149v_4,298,149,458,475,82,0,0,casting,https://edition640.makingandknowing.org/#/folios/149v/f/149v/tl,Bat
+150r_1,299,150,91,100,19,0,0,casting,https://edition640.makingandknowing.org/#/folios/150r/f/150r/tl,Very strong wax
+150r_2,299,150,299,346,56,0,0,casting,https://edition640.makingandknowing.org/#/folios/150r/f/150r/tl,Various alloys of tin and lead
+150r_3,299,150,1175,1292,202,22.29787234,0,casting,https://edition640.makingandknowing.org/#/folios/150r/f/150r/tl,Molds
+150v_1,300,150,7539,8250,1391,31.38347261,58.62846531,casting,https://edition640.makingandknowing.org/#/folios/150v/f/150v/tl,Molding hollow
+151v_1,302,151,928,996,175,38.46982759,0,casting,https://edition640.makingandknowing.org/#/folios/151v/f/151v/tl,Wheat oil
+152r_1,303,152,2911,3210,543,27.48196496,0,casting,https://edition640.makingandknowing.org/#/folios/152r/f/152r/tl,Molding a rat
+152v_1,304,152,1846,1983,346,7.746478873,0,casting,https://edition640.makingandknowing.org/#/folios/152v/f/152v/tl,Repairing cast things
+153r_1,305,153,1759,1938,329,22.05798749,0,casting,https://edition640.makingandknowing.org/#/folios/153r/f/153r/tl,Molding hollow for seals or other things
+153r_2,305,153,1559,1710,284,18.98652983,86.46568313,casting,https://edition640.makingandknowing.org/#/folios/153r/f/153r/tl,Giving the thickness that you wish to a medal
+153v_1,306,153,281,298,54,0,0,casting,https://edition640.makingandknowing.org/#/folios/153v/f/153v/tl,Testing the goodness and strength of a sand to be reheated
+153v_2,306,153,135,157,26,0,0,metal process,https://edition640.makingandknowing.org/#/folios/153v/f/153v/tl,Softening gold
+154r_1,307,154,186,219,38,0,0,metal process,https://edition640.makingandknowing.org/#/folios/154r/f/154r/tl,Gold not being fixed
+154r_2,307,154,316,330,53,58.2278481,0,metal process,https://edition640.makingandknowing.org/#/folios/154r/f/154r/tl,Cutting lead
+154r_3,307,154,787,821,135,56.28970775,0,metal process,https://edition640.makingandknowing.org/#/folios/154r/f/154r/tl,Softening silver
+154r_4,307,154,336,356,58,0,0,metal process,https://edition640.makingandknowing.org/#/folios/154r/f/154r/tl,Iron scales
+154r_5,307,154,313,343,57,0,0,metal process,https://edition640.makingandknowing.org/#/folios/154r/f/154r/tl,Metal filings
+154v_1,308,154,356,394,67,0,0,casting,https://edition640.makingandknowing.org/#/folios/154v/f/154v/tl,Latten
+154v_2,308,154,196,212,37,0,0,casting,https://edition640.makingandknowing.org/#/folios/154v/f/154v/tl,Molding
+154v_3,308,154,274,330,48,24.08759124,0,casting,https://edition640.makingandknowing.org/#/folios/154v/f/154v/tl,Casting of silver
+154v_4,308,154,445,475,75,5.393258427,0,casting,https://edition640.makingandknowing.org/#/folios/154v/f/154v/tl,Reinforcing flowers and delicate things
+154v_5,308,154,342,347,64,0,0,casting,https://edition640.makingandknowing.org/#/folios/154v/f/154v/tl,Strawberries
+155r_1,309,155,2685,2893,486,31.2849162,0,casting,https://edition640.makingandknowing.org/#/folios/155r/f/155r/tl,Molding a rose
+155v_1,310,155,2007,2110,358,0,0,casting,https://edition640.makingandknowing.org/#/folios/155v/f/155v/tl,Rose
+156r_1,311,156,655,694,127,0,0,casting,https://edition640.makingandknowing.org/#/folios/156r/f/156r/tl,Molding promptly and reducing a hollow form to a relief
+156r_2,311,156,980,1078,173,6.93877551,0,casting,https://edition640.makingandknowing.org/#/folios/156r/f/156r/tl,Very light and hollow work of gold
+156r_3,311,156,420,443,74,0,0,casting,https://edition640.makingandknowing.org/#/folios/156r/f/156r/tl,Chasing
+156v_1,312,156,3819,4111,693,41.89578424,0,casting,https://edition640.makingandknowing.org/#/folios/156v/f/156v/tl,Molding a fly
+157r_1,313,157,484,517,88,0,0,casting,https://edition640.makingandknowing.org/#/folios/157r/f/157r/tl,A means of goldsmiths for molding hollow
+157r_2,313,157,342,372,56,0,0,painting,https://edition640.makingandknowing.org/#/folios/157r/f/157r/tl,Flies
+157r_3,313,157,235,259,40,0,0,casting,https://edition640.makingandknowing.org/#/folios/157r/f/157r/tl,Rouge clair
+157r_4,313,157,529,587,96,28.35538752,0,casting,https://edition640.makingandknowing.org/#/folios/157r/f/157r/tl,Cleaning and degreasing your works cast from tin and others
+157r_5,313,157,648,1133,121,98.30246914,0,casting,https://edition640.makingandknowing.org/#/folios/157r/f/157r/tl,Arranging plants or flowers for casting
+157v_1,314,157,261,278,45,0,0,casting,https://edition640.makingandknowing.org/#/folios/157v/f/157v/tl,Ash in the molds
+157v_2,314,157,1381,1470,244,14.12020275,0,casting,https://edition640.makingandknowing.org/#/folios/157v/f/157v/tl,Molding a bird
+157v_3,314,157,197,242,40,0,0,tricks and sleight of hand,https://edition640.makingandknowing.org/#/folios/157v/f/157v/tl,For making h{…} wine f{…}rs
+158r_1,315,158,1263,1387,236,6.254948535,0,casting,https://edition640.makingandknowing.org/#/folios/158r/f/158r/tl,Mercury in the molds for cleaning
+158v_1,316,158,743,796,136,0,0,painting,https://edition640.makingandknowing.org/#/folios/158v/f/158v/tl,Colors for green leaves
+158v_2,316,158,112,130,21,0,0,casting,https://edition640.makingandknowing.org/#/folios/158v/f/158v/tl,Large molds
+158v_3,316,158,404,445,73,0,0,casting,https://edition640.makingandknowing.org/#/folios/158v/f/158v/tl,Candle smoke
+158v_4,316,158,414,467,79,31.15942029,0,casting,https://edition640.makingandknowing.org/#/folios/158v/f/158v/tl,Gate
+159r_1,317,159,722,769,132,0,0,casting,https://edition640.makingandknowing.org/#/folios/159r/f/159r/tl,Wax portraits
+159r_2,317,159,148,163,24,0,0,tool,https://edition640.makingandknowing.org/#/folios/159r/f/159r/tl,Chiseling
+159r_3,317,159,603,633,111,0,0,tool,https://edition640.makingandknowing.org/#/folios/159r/f/159r/tl,  Fish glue
+159r_4,317,159,239,269,43,0,0,casting,https://edition640.makingandknowing.org/#/folios/159r/f/159r/tl,Tin and lead
+159v_1,318,159,245,262,44,0,0,tool,https://edition640.makingandknowing.org/#/folios/159v/f/159v/tl,Cleaning files
+159v_2,318,159,385,414,71,0,0,casting,https://edition640.makingandknowing.org/#/folios/159v/f/159v/tl,Carnation
+159v_3,318,159,523,578,94,11.85468451,0,casting,https://edition640.makingandknowing.org/#/folios/159v/f/159v/tl,Molds
+159v_4,318,159,1154,1260,202,22.27036395,0,casting,https://edition640.makingandknowing.org/#/folios/159v/f/159v/tl,Plaster alone
+160r_1,319,160,881,1002,162,13.28036322,0,casting,https://edition640.makingandknowing.org/#/folios/160r/f/160r/tl,Press for large molds
+160r_2,319,160,371,402,66,0,0,casting,https://edition640.makingandknowing.org/#/folios/160r/f/160r/tl,Sand for flowers
+160v_1,320,160,240,239,42,0,0,casting,https://edition640.makingandknowing.org/#/folios/160v/f/160v/tl,Molding a foot or hand
+160v_2,320,160,276,296,48,0,0,casting,https://edition640.makingandknowing.org/#/folios/160v/f/160v/tl,Delicate work of gold and of silver
+160v_3,320,160,367,390,62,0,0,casting,https://edition640.makingandknowing.org/#/folios/160v/f/160v/tl,Catching crayfish
+160v_4,320,160,385,403,66,0,0,casting,https://edition640.makingandknowing.org/#/folios/160v/f/160v/tl,Catching passerines
+160v_5,320,160,471,506,84,46.92144374,0,casting,https://edition640.makingandknowing.org/#/folios/160v/f/160v/tl,Catching birds
+161r_1,321,161,2286,2457,415,12.5984252,0,casting,https://edition640.makingandknowing.org/#/folios/161r/f/161r/tl,Preparation of sand for frames
+161v_1,322,161,900,944,159,0,0,metal process,https://edition640.makingandknowing.org/#/folios/161v/f/161v/tl,Crocum ferri
+162r_1,323,162,445,514,72,5.617977528,0,La boutique,https://edition640.makingandknowing.org/#/folios/162r/f/162r/tl,For the workshop
+162r_2,323,162,180,193,32,0,0,casting,https://edition640.makingandknowing.org/#/folios/162r/f/162r/tl,Aes ustum
+162r_3,323,162,180,197,33,0,0,casting,https://edition640.makingandknowing.org/#/folios/162r/f/162r/tl,Rotten wood
+162v_1,324,162,231,259,40,0,0,cultivation,https://edition640.makingandknowing.org/#/folios/162v/f/162v/tl,Peach tree
+162v_2,324,162,88,102,15,0,0,cultivation,https://edition640.makingandknowing.org/#/folios/162v/f/162v/tl,Olive trees
+162v_3,324,162,320,321,55,0,0,casting,https://edition640.makingandknowing.org/#/folios/162v/f/162v/tl,Bittern foot
+162v_4,324,162,1122,1213,204,0,0,casting,https://edition640.makingandknowing.org/#/folios/162v/f/162v/tl,Molds of things that do not release
+163r_1,325,163,1268,1390,223,0,0,household and daily life,https://edition640.makingandknowing.org/#/folios/163r/f/163r/tl,Perfumer
+163r_2,325,163,323,367,60,0,0,casting,https://edition640.makingandknowing.org/#/folios/163r/f/163r/tl,Eau-de-vie
+163v_1,326,163,595,649,104,28.40336134,0,casting,https://edition640.makingandknowing.org/#/folios/163v/f/163v/tl,Crayfish
+163v_2,326,163,735,802,132,0,0,metal process,https://edition640.makingandknowing.org/#/folios/163v/f/163v/tl,Crocum
+163v_3,326,163,309,329,54,0,0,casting,https://edition640.makingandknowing.org/#/folios/163v/f/163v/tl,Repairing
+164r_1,327,164,267,292,53,0,0,casting,https://edition640.makingandknowing.org/#/folios/164r/f/164r/tl,Gate
+164r_2,327,164,266,284,45,0,0,casting,https://edition640.makingandknowing.org/#/folios/164r/f/164r/tl,Repairing flashing
+164r_3,327,164,570,606,109,0,0,casting,https://edition640.makingandknowing.org/#/folios/164r/f/164r/tl,Leady silver
+164r_4,327,164,406,447,69,0,0,casting,https://edition640.makingandknowing.org/#/folios/164r/f/164r/tl,Blowing
+164v_1,328,164,998,1065,181,37.0741483,0,casting,https://edition640.makingandknowing.org/#/folios/164v/f/164v/tl,Molds
+164v_2,328,164,515,575,95,0,0,casting,https://edition640.makingandknowing.org/#/folios/164v/f/164v/tl,Sand
+164v_3,328,164,619,659,114,0,0,casting,https://edition640.makingandknowing.org/#/folios/164v/f/164v/tl,Molds
+165r_1,329,165,128,140,24,0,0,casting,https://edition640.makingandknowing.org/#/folios/165r/f/165r/tl,Repairing
+165r_2,329,165,149,169,28,0,0,painting,https://edition640.makingandknowing.org/#/folios/165r/f/165r/tl,Lake
+165r_3,329,165,165,174,30,0,0,painting,https://edition640.makingandknowing.org/#/folios/165r/f/165r/tl,Stretching a canvas picture
+165r_4,329,165,607,655,118,19.11037891,0,casting,https://edition640.makingandknowing.org/#/folios/165r/f/165r/tl,Plaster for molding
+165r_5,329,165,172,197,33,0,0,painting,https://edition640.makingandknowing.org/#/folios/165r/f/165r/tl,Dragon’s blood
+165r_6,329,165,449,457,84,0,0,casting,https://edition640.makingandknowing.org/#/folios/165r/f/165r/tl,Repairing snakes and lizards
+165v_1,330,165,493,545,90,73.02231237,0,casting,https://edition640.makingandknowing.org/#/folios/165v/f/165v/tl,Stance of animals
+165v_2,330,165,317,342,59,0,0,casting,https://edition640.makingandknowing.org/#/folios/165v/f/165v/tl,Keeping animals
+165v_3,330,165,208,240,38,22.59615385,0,casting,https://edition640.makingandknowing.org/#/folios/165v/f/165v/tl,Molds
+165v_4,330,165,298,312,53,0,0,casting,https://edition640.makingandknowing.org/#/folios/165v/f/165v/tl,Lute
+165v_5,330,165,196,214,35,0,0,metal process,https://edition640.makingandknowing.org/#/folios/165v/f/165v/tl,Silver
+165v_6,330,165,200,229,38,0,0,casting,https://edition640.makingandknowing.org/#/folios/165v/f/165v/tl,Fly wing
+165v_7,330,165,224,243,39,0,0,casting,https://edition640.makingandknowing.org/#/folios/165v/f/165v/tl,"Joining some fly wing, or similar"
+166r_1,331,166,2465,2637,406,0,10.18255578,La boutique,https://edition640.makingandknowing.org/#/folios/166r/f/166r/tl,For the workshop
+166v_2,332,166,179,204,31,0,0,preserving,https://edition640.makingandknowing.org/#/folios/166v/f/166v/tl,Keeping chestnuts
+166v_3,332,166,229,242,40,0,0,household and daily life,https://edition640.makingandknowing.org/#/folios/166v/f/166v/tl,Scented candle from Le Mans
+166v_4,332,166,154,177,22,0,0,metal process,https://edition640.makingandknowing.org/#/folios/166v/f/166v/tl,Softening gold
+166v_5,332,166,236,261,41,0,0,metal process,https://edition640.makingandknowing.org/#/folios/166v/f/166v/tl,Augmenting the color of gold
+167r_1,333,167,6065,6437,1137,0,81.68178071,arms and armor,https://edition640.makingandknowing.org/#/folios/167r/f/167r/tl,Petards
+169r_1,337,169,1028,1121,172,0,0,lists,https://edition640.makingandknowing.org/#/folios/169r/f/169r/tl,[List of processes]
+169v_1,338,169,264,274,47,0,0,casting,https://edition640.makingandknowing.org/#/folios/169v/f/169v/tl,Molding very thin like bimbalotiers do
+169v_2,338,169,2357,2529,443,13.36444633,12.26134917,casting,https://edition640.makingandknowing.org/#/folios/169v/f/169v/tl,Reducing a round figure to a hollow form
+170r_1,339,170,241,271,43,0,0,casting,https://edition640.makingandknowing.org/#/folios/170r/f/170r/tl,Cleaning closed molds
+170r_2,339,170,159,179,32,0,0,casting,https://edition640.makingandknowing.org/#/folios/170r/f/170r/tl,Currency medals
+170r_3,339,170,93,110,16,0,0,casting,https://edition640.makingandknowing.org/#/folios/170r/f/170r/tl,Casting
+170r_4,339,170,194,222,34,0,0,casting,https://edition640.makingandknowing.org/#/folios/170r/f/170r/tl,Clamps
+170r_5,339,170,235,256,39,0,0,casting,https://edition640.makingandknowing.org/#/folios/170r/f/170r/tl,Molds
+170r_6,339,170,631,694,109,35.340729,0,casting,https://edition640.makingandknowing.org/#/folios/170r/f/170r/tl,Thick works of tin
+170v_1,340,170,498,558,86,0,0,manuscript structure,https://edition640.makingandknowing.org/#/folios/170v/f/170v/tl,[Original first page (1578–1579)]
+170v_2,340,170,269,307,46,16.72862454,0,medicine,https://edition640.makingandknowing.org/#/folios/170v/f/170v/tl,Against plague
+170v_3,340,170,497,571,79,12.27364185,0,medicine,https://edition640.makingandknowing.org/#/folios/170v/f/170v/tl,For preserving
+170v_4,340,170,286,324,39,0,0,lists,https://edition640.makingandknowing.org/#/folios/170v/f/170v/tl,[List of books]

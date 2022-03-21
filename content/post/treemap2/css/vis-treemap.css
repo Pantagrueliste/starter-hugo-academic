@@ -1,0 +1,15 @@
+.vis-treemap {
+  font-size: 0.625rem;
+}
+
+.vis-treemap .cell-label {
+  text-transform: capitalize;
+}
+
+.vis-treemap .cell-label--root {
+  font-weight: bold;
+}
+
+.vis-treemap .cell-label__value {
+  fill-opacity: 0.7;
+}

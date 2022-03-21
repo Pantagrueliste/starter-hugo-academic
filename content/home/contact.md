@@ -1,5 +1,6 @@
 ---
 # An instance of the Contact widget.
+# Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
 
 # This file represents a page section.
@@ -22,36 +23,17 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
-
+      captcha: true
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: Via de' Benci 10
+    city: Firenze
+    postcode: '50122'
+    country: Italy
+    country_code: IT
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
-
+    latitude: '43.76824316096065' 
+    longitude: '11.259942892581726'
 design:
   columns: '2'
 ---
