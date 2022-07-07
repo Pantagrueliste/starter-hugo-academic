@@ -72,7 +72,19 @@ Somewhat undexpectedly, GPT-3 also added information that was not in the origina
 
 With this bibliographic reference, for example, GPT-3  added the permanent link to the open-access repository ([HAL](https://hal.archives-ouvertes.fr)) where the paper can be read, including the ad-hoc fields `HAL_ID` and `HAL_VERSION` : 
 ```BibTeX
-@inproceedings{baillot2015, title = {Editing for Man and Machine}, author = {Baillot, Anne and Busch, Anna}, year = 2015, booktitle = {Users of Scholarly Editions: Editorial Anticipations of Reading, Studying and Consulting}, address = {Leicester}, series = {Variants (Journal of the European Society for Textual Scholarship)}, volume = 13, editor = {Bruhn, Siglinde and Schreiber, Manfred}, langid = {english}, hal_id = {halshs-01233380}, hal_version = {v1}}
+@inproceedings{baillot2015, 
+  title = {Editing for Man and Machine},
+  author = {Baillot, Anne and Busch, Anna},
+  year = 2015,
+  booktitle = {Users of Scholarly Editions: Editorial Anticipations of Reading, Studying and Consulting},
+  address = {Leicester},
+  series = {Variants (Journal of the European Society for Textual Scholarship)},
+  volume = 13,
+  editor = {Bruhn, Siglinde and Schreiber, Manfred},
+  langid = {english},
+  hal_id = {halshs-01233380},
+  hal_version = {v1}
+}
 ```
 
 These additions indicate that GPT-3 does not only parse the bibliographic reference, but also completes it on the grounds of what it initially learned. It would be interesting, in that regard, to see if it behaves similarly with references dating after GPT-3's training...
@@ -85,8 +97,22 @@ GPT-3's bouts of incoherence were manifest, for example, when it spontaneously c
 It is hard to understand why GPT-3 prefers Ruscello to Ruscelli. Is it because all the other names in this part of the bibliography happen to be inflected in singular (Bariletto, Cesano, Rossello)?
 
 ```Bibtex
-@book{rossello1565, title = {Della summa de’ secreti universali}, author = {Rossello, Timoteo}, address = {Venice}, publisher = {Giovanni Bariletto}, langid = {italian}, date = {1565}}
-@book{ruscello1559, title = {La seconda parte de’ secreti del Reverendo Donno Alessio Piemontese}, author = {Ruscello, Girolamo}, address = {Pesaro}, publisher = {Bartolomeo Cesano}, langid = {italian}, date = {1559}}
+@book{rossello1565,
+  title = {Della summa de’ secreti universali},
+  author = {Rossello, Timoteo},
+  address = {Venice},
+  publisher = {Giovanni Bariletto},
+  langid = {italian},
+  date = {1565}
+}
+
+@book{ruscello1559, 
+  title = {La seconda parte de’ secreti del Reverendo Donno Alessio Piemontese},
+  author = {Ruscello, Girolamo},
+  address = {Pesaro}, 
+  publisher = {Bartolomeo Cesano}, 
+  langid = {italian}, date = {1559}
+}
 ```
 
 ## Conclusion
