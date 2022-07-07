@@ -49,7 +49,7 @@ After playing around with this API, I realized that it could work also very well
 
 I only had to use four examples in the input prompt to make this work reliably. 
 
-### input prompt
+### Input Prompt
 
 >References:
 Bayle, Ariane. “Patients exemplaires: la correspondance médicale de Fioravanti.” In *Vulgariser la médecine. Du style médical en France et en Italie*, edited by Andrea Carlino and Michel Jeanneret, 181–212. Geneva: Droz, 2009.
@@ -72,11 +72,10 @@ Somewhat undexpectedly, GPT-3 also added information that was not in the origina
 
 With this bibliographic reference, for example, GPT-3  added the permanent link to the open-access repository ([HAL](https://hal.archives-ouvertes.fr)) where the paper can be read, including the ad-hoc fields `HAL_ID` and `HAL_VERSION` : 
 ```BibTeX
-@inproceedings{baillot2015, title = {Editing for Man and Machine}, author = {Baillot, Anne and Busch, Anna}, year = 2015, booktitle = {Users of Scholarly Editions: Editorial Anticipations of Reading, Studying and Consulting}, address = {Leicester}, series = {Variants (Journal of the European Society for Textual Scholarship)}, volume = 13, editor = {Bruhn, Siglinde and Schreiber, Manfred}, langid = {english}, hal_id = {halshs-01233380}, hal_version = {v1}
-}
+@inproceedings{baillot2015, title = {Editing for Man and Machine}, author = {Baillot, Anne and Busch, Anna}, year = 2015, booktitle = {Users of Scholarly Editions: Editorial Anticipations of Reading, Studying and Consulting}, address = {Leicester}, series = {Variants (Journal of the European Society for Textual Scholarship)}, volume = 13, editor = {Bruhn, Siglinde and Schreiber, Manfred}, langid = {english}, hal_id = {halshs-01233380}, hal_version = {v1}}
 ```
 
-These additions indicate that GPT-3 does not exactly or only parse the bibliographic reference, but also completes it on the grounds of what it initially learned. It would be interesting, in that regard, to see if it behaves similarly with references dating after GPT-3's training...
+These additions indicate that GPT-3 does not only parse the bibliographic reference, but also completes it on the grounds of what it initially learned. It would be interesting, in that regard, to see if it behaves similarly with references dating after GPT-3's training...
 
 ## Limitations
 GPT-3 is not perfect, however, and always needs to be supervised. One of its known limitations is [hallucination](https://arxiv.org/abs/2005.00661), as it sometimes invent things. makes improbable assumptions. 
