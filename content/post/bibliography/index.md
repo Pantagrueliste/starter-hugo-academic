@@ -58,10 +58,43 @@ Gabler, Hans Walter. “Theorizing the Digital Scholarly Edition.” *Literature
 Findlen, Paula. *Possessing Nature: Museums, Collecting, and Scientific Culture in Early Modern Italy*. Berkeley: University of California Press, 1994.
 
 ```BibTeX
-BibTex: @incollection{bayle2009, author = {Bayle, Ariane}, booktitle = {Vulgariser la médecine. Du style médical en France et en Italie}, title = {Patients exemplaires: la correspondance médicale de Fioravanti}, editor = {Carlino, Andrea and Michel Jeanneret}, year = {2009}, address = {Geneva}, publisher = {Droz}, langid = {french}}
-@book{berns2015, title = {The Bible and Natural Philosophy in Renaissance Italy: Jewish and Christian Physicians in Search of Truth}, author = {Berns, Andrew D.}, address = {Cambridge}, publisher = {Cambridge University Press}, langid = {english}, date = {2015}}
-@article{gabler2010, author = {Gabler, Hans Walter}, title = {Theorizing the Digital Scholarly Edition}, journal = {Literature Compass}, volume = {7}, number = {2}, pages = {43-56}, doi = {10.1111/j.1741-4113.2009.00675.x}, langid = {english}, year = {2010}}
-@book{findlen1994, title = {Possessing Nature: Museums, Collecting, and Scientific Culture in Early Modern Italy}, author = {Findlen, Paula}, address = {Berkeley}, publisher = {University of California Press}, langid = {english}, date = {1994}}
+BibTex: @incollection{bayle2009,
+  author = {Bayle, Ariane},
+  booktitle = {Vulgariser la médecine. Du style médical en France et en Italie},
+  title = {Patients exemplaires: la correspondance médicale de Fioravanti},
+  editor = {Carlino, Andrea and Michel Jeanneret},
+  year = {2009},
+  address = {Geneva},
+  publisher = {Droz},
+  langid = {french}
+}
+@book{berns2015,
+  title = {The Bible and Natural Philosophy in Renaissance Italy: Jewish and Christian Physicians in Search of Truth},
+  author = {Berns, Andrew D.},
+  address = {Cambridge},
+  publisher = {Cambridge University Press},
+  langid = {english},
+  date = {2015}
+}
+@article{gabler2010,
+  author = {Gabler, Hans Walter},
+  title = {Theorizing the Digital Scholarly Edition},
+  journal = {Literature Compass},
+  volume = {7},
+  number = {2},
+  pages = {43-56},
+  doi = {10.1111/j.1741-4113.2009.00675.x},
+  langid = {english},
+  year = {2010}
+}
+@book{findlen1994,
+  title = {Possessing Nature: Museums, Collecting, and Scientific Culture in Early Modern Italy},
+  author = {Findlen, Paula},
+  address = {Berkeley},
+  publisher = {University of California Press},
+  langid = {english},
+  date = {1994}
+}
 ```
 
 ### Results
