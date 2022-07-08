@@ -23,7 +23,7 @@ featured: true
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Credit | Neurons. Odra Noel (CC BY-NC 4.0).'
+  caption: ""
   focal_point: ""
   placement: 1
   preview_only: false
