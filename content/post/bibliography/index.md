@@ -100,7 +100,7 @@ BibTex: @incollection{bayle2009,
 ```
 
 ### Results
-The [results](https://github.com/Pantagrueliste/m-k-manuscript-data/blob/master/bibliographies/essays/EssaysBibliography.bib) are strking. More than 2,000 bibliographic references converted in a matter of days. Not only did it accurately reproduce the pattern exposed in my input prompt, but it also correctly added entry  and field types that were not included in the input prompt. `GPT-3`, in other words is perfectly fluent in `BibTeX`. Perhaps more surprisingly for a model essentially trained in English, it recongized all the languages (Russian, French, Italian, Latin, Greek, German, Spanish, etc) adding everytime the correct `langid` field.
+The {{< hl >}}[results](https://github.com/Pantagrueliste/m-k-manuscript-data/blob/master/bibliographies/essays/EssaysBibliography.bib) are strking.{{< /hl >}} More than 2,000 bibliographic references converted in a matter of days. Not only did it accurately reproduce the pattern exposed in my input prompt, but it also correctly added entry  and field types that were not included in the input prompt. `GPT-3`, in other words is perfectly fluent in `BibTeX`. Perhaps more surprisingly for a model essentially trained in English, it recongized all the languages (Russian, French, Italian, Latin, Greek, German, Spanish, etc) adding everytime the correct `langid` field.
 
 Somewhat undexpectedly, GPT-3 also added information that was not in the original references. 
 >Baillot, Anne, and Anna Busch. “Editing for Man and Machine.” In _Users of Scholarly Editions: Editorial Anticipations of Reading, Studying and Consulting_, Vol. 13. Variants (Journal of the European Society for Textual Scholarship). Leicester, 2015. 
@@ -146,7 +146,8 @@ It is hard to understand why GPT-3 prefers Ruscello to Ruscelli. Is it because a
   author = {Ruscello, Girolamo},
   address = {Pesaro}, 
   publisher = {Bartolomeo Cesano}, 
-  langid = {italian}, date = {1559}
+  langid = {italian}, 
+  date = {1559}
 }
 ```
 
