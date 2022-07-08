@@ -125,11 +125,10 @@ With this bibliographic reference, for example, GPT-3  added the permanent link 
 These additions indicate that {{< hl >}}GPT-3 does not only parse the bibliographic reference, but also completes it on the grounds of what it initially learned.{{< /hl >}} It would be interesting, in that regard, to see if it behaves similarly with references dating after GPT-3's training...
 
 ## Limitations
-GPT-3 is not perfect, however, and always needs to be supervised. One of its known limitations is [hallucination](https://arxiv.org/abs/2005.00661), as it sometimes invent things. makes improbable assumptions. 
+GPT-3 is not perfect, however, and always needs to be supervised. One of its known limitations is [hallucination](https://arxiv.org/abs/2005.00661), as it sometimes invent things and makes some improbable assumptions. 
 
-GPT-3's bouts of incoherence were manifest, for example, when it spontaneously changed an author's patronym from "Ruscelli" to "Ruscello." This is technically not a mistake, as early modern Italian patronyms could be used in plural or singular indisctinctively. However, today's convention is that if a patronym is in plural or singular, you should keep it as it is. Today, nobody would call Machiavelli Machiavello, just as we are expected to use Rossello instead of Rosselli. 
-
-It is hard to understand why GPT-3 prefers Ruscello to Ruscelli. Is it because all the other names in this part of the bibliography happen to be inflected in singular (Bariletto, Cesano, Rossello)?
+In my experiment, GPT-3's bouts of incoherence were manifest when it spontaneously changed, for example, an author's patronym from "Ruscelli" to "Ruscello." This is technically not a mistake, since early modern Italian patronyms could be used in the plural or singular indistinctly. However, today's convention is that if a patronym is in plural or singular, you should keep it as it is. Today, nobody would call Machiavelli Machiavello, just as we are expected to use the name Rossello instead of Rosselli. Has GPT-3 ignored this convention, because of a lack of chronological consciousness? Or is it because GPT-3 made an assumption on the grounds of neighboring patronyms, which in this part of the bibliography all happen to be inflected in singular (Bariletto, Cesano, Rossello)?
+Who knows.
 
 ```Bibtex
 @book{rossello1565,
