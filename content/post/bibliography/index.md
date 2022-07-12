@@ -104,7 +104,7 @@ BibTex: @incollection{bayle2009,
 The {{< hl >}}[results](https://github.com/Pantagrueliste/m-k-manuscript-data/blob/master/bibliographies/essays/EssaysBibliography.bib) are striking, with more than 2,000 bibliographic references converted in a matter of days.{{< /hl >}} Not only did this approach accurately reproduce the pattern exposed in my input prompt, but it also correctly added entry  and field types that were not included in the input prompt. `GPT-3`, in other words is perfectly fluent in `BibTeX`. Perhaps more surprisingly for a model essentially trained in English, it recognized all the languages (Russian, French, Italian, Latin, Greek, German, Spanish, etc) adding everytime the correct `langid` field.
 
 {{% callout note %}}
-GPT-3 currently has limited input and output sizes, as it can process a maximum 2048 linguistic tokens. As soon as this limitation will lifted, the same task would probably take less than an hour.
+GPT-3 currently has limited input and output sizes, as it can process a maximum 2048 linguistic tokens. As soon as this limitation will lifted, the same task would probably take one hour or less.
 {{% /callout %}}
 
 Somewhat undexpectedly, GPT-3 also added information that was not in the original references. 
@@ -144,7 +144,6 @@ Who knows.
   langid = {italian},
   date = {1565}
 }
-
 @book{ruscello1559, 
   title = {La seconda parte de’ secreti del Reverendo Donno Alessio Piemontese},
   author = {Ruscello, Girolamo},
