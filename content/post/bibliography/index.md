@@ -28,7 +28,7 @@ image:
 projects: [Efficient Editing]
 ---
 
-Automation is key to decrease the cost of digital humanities projects. IUp to this day, the repetitive and tedious tasks related to editorial work in academic settings have either been carried out at great expense by overwhelmed scholars, or "outsourced" to students. In this [series of blog posts](https://www.clementgodbarge.com/category/efficient-editing/), I argue that most of these ungrateful tasks not only *can* but also *should* be automated. Automation of editorial tasks reduces the overall cost of projects in the digital humanities. Crucially, it enables scholars from low-income regions to rapidly and affordably publish valuable documents.
+Automation is key to decrease the cost of digital humanities projects. Up to this day, the repetitive and tedious tasks related to editorial work in academic settings have either been carried out at great expense by overwhelmed scholars, or "outsourced" to students. In this [series of blog posts](https://www.clementgodbarge.com/category/efficient-editing/), I argue that most of these ungrateful tasks not only *can* but also *should* be automated. Automation of editorial tasks reduces the overall cost of projects in the digital humanities. Crucially, it enables scholars from low-income regions to rapidly and affordably publish valuable documents.
 
 In [the previous post](https://www.clementgodbarge.com/post/gpt3/), I have shown for example how pre-trained language models can handle most of the XML labeling work of a digital edition. 
 
