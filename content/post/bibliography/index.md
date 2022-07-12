@@ -3,7 +3,7 @@
 
 title: "Large-scale Bibliographic Parsing with Pre-Trained Language Models"
 subtitle: "How to rapidly convert thousands of bibliographic references into a BibTeX database"
-summary: ""
+summary: "GPT-3 helps converting large amounts of bibliography into a database in a short amount of time"
 authors: [admin]
 tags: [Digital Humanities, GPT-3, Bibliography, Automation]
 categories: [Efficient Editing]
@@ -28,7 +28,7 @@ image:
 projects: [Efficient Editing]
 ---
 
-Automation is key to decrease the cost of digital humanities projects. In academic settings, the repetitive and tedious tasks related to editorial work have either been carried out at great expense by overwhelmed scholars, or "outsourced" to students. In this [series of blog posts](https://www.clementgodbarge.com/category/efficient-editing/), I argue that most of these ungrateful tasks not only *can* but also *should* be automated.
+Automation is key to decrease the cost of digital humanities projects. IUp to this day, the repetitive and tedious tasks related to editorial work in academic settings have either been carried out at great expense by overwhelmed scholars, or "outsourced" to students. In this [series of blog posts](https://www.clementgodbarge.com/category/efficient-editing/), I argue that most of these ungrateful tasks not only *can* but also *should* be automated. Automation of editorial tasks reduces the overall cost of projects in the digital humanities. Crucially, it enables scholars from low-income regions to rapidly and affordably publish valuable documents.
 
 In [the previous post](https://www.clementgodbarge.com/post/gpt3/), I have shown for example how pre-trained language models can handle most of the XML labeling work of a digital edition. 
 
@@ -45,9 +45,9 @@ This is where {{< hl >}}pre-trained language models{{< /hl >}} can help, as they
 
 In early 2021, I was lucky enough to have early access to OpenAI's [GPT-3 Codex](https://openai.com/blog/openai-codex/). Codex is a model that enables users to translate natural language into code and vice versa. OpenAI claims it is proficient in more than a dozen programming languages, and though its API is still, as I am writing this blog post, accessible as a beta version, it is already powering popular applications such as GitHub's [Copilot](https://github.com/features/copilot/).
 
-After playing around with this API, I realized that it could work also very well with simpler codes such as `BibTeX`. 
+After playing around with this API, I realized that it could work also very well with simpler code such as `BibTeX`. 
 
-I only had to use four examples in the input prompt to make this work reliably. 
+And in fact, I only had to use four examples in the input prompt to make this work reliably. 
 
 ### Input Prompt
 
@@ -102,6 +102,10 @@ BibTex: @incollection{bayle2009,
 ### Results
 The {{< hl >}}[results](https://github.com/Pantagrueliste/m-k-manuscript-data/blob/master/bibliographies/essays/EssaysBibliography.bib) are strking, with more than 2,000 bibliographic references converted in a matter of days.{{< /hl >}} Not only did this approach accurately reproduce the pattern exposed in my input prompt, but it also correctly added entry  and field types that were not included in the input prompt. `GPT-3`, in other words is perfectly fluent in `BibTeX`. Perhaps more surprisingly for a model essentially trained in English, it recongized all the languages (Russian, French, Italian, Latin, Greek, German, Spanish, etc) adding everytime the correct `langid` field.
 
+{{% callout note %}}
+GPT-3 currently has limited input and output sizes, as it can process a maximum 2048 linguistic tokens. As soon as this limitation will lifted, the same task would probably take less than an hour.
+{{% /callout %}}
+
 Somewhat undexpectedly, GPT-3 also added information that was not in the original references. 
 >Baillot, Anne, and Anna Busch. “Editing for Man and Machine.” In _Users of Scholarly Editions: Editorial Anticipations of Reading, Studying and Consulting_, Vol. 13. Variants (Journal of the European Society for Textual Scholarship). Leicester, 2015. 
 
@@ -153,6 +157,6 @@ Who knows.
 ## Conclusion
 Written over four years of intense collaborations, the 150+ essays [included in our digital edition](https://edition640.makingandknowing.org/#/essays) not only provide some vital information about the manuscript we edited and translated, but also include valuable bibliographic information.
 
-Aggregating these bibliographic references into a database is important, as it enables editors to change bibliographic formatting in the blink of an eye, giving them more flexibility to display this information as they wish. This database also gives valuable sources of information about the edition and the project that made it possible, opening new analytical perspectives. Such a database can be completed in a time frame that is still regarded by many as unthinkable. 
+Aggregating these bibliographic references into a database enables editors to change bibliographic formatting in the blink of an eye, giving them more flexibility to display this information as they wish. This database also gives valuable information about the edition and the project that made it possible, opening new analytical perspectives for scholars. Such a database can be completed with high accuracy and in a record time frame.
 
-Some mistakes can creep in, arguably, notably because of GPT-3's tendency to hallucinate. Yet future iterations of pre-trained language models will mitigate this problem. Crucially, this type of automation does not exempt us from re-reading and correcting the contents we create and curate. The human factor remains central. 
+Some mistakes can creep in, arguably, notably because of GPT-3's tendency to hallucinate. Yet future iterations of pre-trained language models will mitigate this problem.
