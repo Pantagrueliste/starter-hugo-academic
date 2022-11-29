@@ -5,7 +5,7 @@ tags:
 - Avviso
 - Digital Humanities
 - Archival Research
-- Current Research
+- Past Research
 date: "2021-12-12T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

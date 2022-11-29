@@ -89,6 +89,7 @@ A density map is a type of visualization that highlights the frequency with whic
 
 <iframe width='100%' height='600px' src="https://api.mapbox.com/styles/v1/clemclem/cl9q7c77p004y14mqytjrfnex.html?title=false&access_token=pk.eyJ1IjoiY2xlbWNsZW0iLCJhIjoiY2lmbGpvbjMwZjh3NnJ5bHg4ZzkzeWZzeCJ9.IgOF4fphVbsWAIKyzAV-DQ&zoomwheel=false#3.83/43.29/33.61" title="Levante" style="border:none;"></iframe>
 
+For the sake of this experiment, and since I was in a rush, I used one of [Map Box's](https://www.mapbox.com) APIs. However, many visualization libraries and Geographic Information Systems allow you to produce the same kind of density map. 
 
 # A Few Observations 
 One interesting aspect of this experiment, is that the map reveals a *Levante* that is completely integrated with the rest of Europe and the Mediterranean. It also highlights the centrality of Edirne in the political geography of the Ottoman Empire. Moreover, Spain's most relevant city in the map is neither Madrid nor the Escorial, but Naples. Last but not the least, Islands and small city-states such as Ragusa seem to have in important role mediating between the different powers of the region.  
@@ -138,4 +139,4 @@ with open('results.csv', 'w', newline='') as csvfile:
                 writer.writerow({'documentId': documentId, 'placeCited': placeCited, 'documentDate': documentDate})
 ```
 
-Once you have downloaded the results.csv file, you can proceed to cleanup the data as explained above. 
+Once you have downloaded the `results.csv` file, you can proceed to cleanup the data as explained above. 
