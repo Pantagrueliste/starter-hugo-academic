@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Zibaldone
 
 # View.
 #   1 = List
