@@ -6,7 +6,7 @@ subtitle: Create quick visualizations of a digital scholarly edition with Python
 summary: A quick way to correlate the markup of annotated digital editions such as *Secrets of Craft and Nature in Renaissance France* with Python
 
 # Link this post with a project
-projects: [Making & Knowing]
+projects: ["DCE"]
 
 # Date published
 date: "2020-12-20T18:15:00Z"
