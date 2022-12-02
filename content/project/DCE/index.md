@@ -3,7 +3,6 @@ title: Efficient Editing
 summary: A series of blog posts where I evaluate different approaches to drive the cost of scholarly editions down
 tags: 
 - Digital Humanities
-- Current Research
 date: "2021-12-12T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
