@@ -35,7 +35,7 @@ In this post, I will show you how to use data from the Medici Archive Project's 
 to visualize the specific places with which the toponym was associated.  
 
 # The MIA database
-The MIA database is a collaborative platform for scholars who wish to upload and share their own photographs of archival material from the [State Archives of Florence](https://archiviodistatofirenze.cultura.gov.it/asfi/home). Over the past year, and under the patronage of the [National Endowment for the Humanities](https://www.neh.gov), our team has photographed, transcribed, synthesized, and classified thousands of documents stored in *avvisi* section of the *Mediceo del Principato* archive in Florence. While our database was not primarily intended for statistical analysis, the metadata we made available can be downloaded and used as datasets. 
+The MIA database is a collaborative platform for scholars who wish to upload and share their own photographs of archival material from the [State Archives of Florence](https://archiviodistatofirenze.cultura.gov.it/asfi/home). Over the past year, and under the patronage of the [National Endowment for the Humanities](https://www.neh.gov), our team has photographed, transcribed, synthesized, and classified thousands of documents stored in *avvisi* section of the *Mediceo del Principato* archive in Florence. While our database was not primarily intended for statistical analysis, the metadata we made available can be still downloaded and used as datasets. 
 
 # The dataset
 In this case, the dataset I created covers all the news from *Levante* from 1543 to 1566, that is to say, from the first avviso recorded in the archives to the year when Sultan [Suleyman I](https://en.wikipedia.org/wiki/Suleiman_the_Magnificent) dies. Here is a sample of the data I extracted from the server. Made of three columns, the data consist of a unique document number, a place name, and a date. 
@@ -84,19 +84,21 @@ documentId,latitude,longitude,documentDate
 ```
 
 # The Density Map.
-A density map is a type of visualization that highlights the frequency with which a place is mentioned in a given dataset. This is especially useful for understanding not just the geographic scope of one's data, but also its focal points and its emerging structure. Which points on the map are more frequently mentioned? And which ones are more episodic? Where on the map is a reader's attention most likely to be focused? 
+A density map is a type of visualization that highlights the frequency with which a place is mentioned in a given dataset. This is especially useful for understanding not just the geographic scope of one's data, but also its focal points. Which places on the map are more frequently mentioned? And which ones are more episodic? Where are the centers, and how far is the periphery? Where on the map is a reader's attention most likely to be focused? 
 
 
 <iframe width='100%' height='600px' src="https://api.mapbox.com/styles/v1/clemclem/cl9q7c77p004y14mqytjrfnex.html?title=false&access_token=pk.eyJ1IjoiY2xlbWNsZW0iLCJhIjoiY2lmbGpvbjMwZjh3NnJ5bHg4ZzkzeWZzeCJ9.IgOF4fphVbsWAIKyzAV-DQ&zoomwheel=false#3.83/43.29/33.61" title="Levante" style="border:none;"></iframe>
 
-For the sake of this experiment, and since I was in a rush, I used one of [Map Box's](https://www.mapbox.com) APIs. However, many visualization libraries and Geographic Information Systems allow you to produce the same kind of density map. 
+For the sake of this experiment--and since I was in a rush--I used one of [Map Box's](https://www.mapbox.com) APIs. However, many visualization libraries and Geographic Information Systems allow you to produce the same kind of density map. 
 
 # A Few Observations 
-One interesting aspect of this experiment, is that the map reveals a *Levante* that is completely integrated with the rest of Europe and the Mediterranean. It also highlights the centrality of Edirne in the political geography of the Ottoman Empire. Moreover, Spain's most relevant city in the map is neither Madrid nor the Escorial, but Naples. Last but not the least, Islands and small city-states such as Ragusa seem to have in important role mediating between the different powers of the region.  
+The result is more of an impressionistic tableau than the accurate representation of a clearly definable concept, and that's precisely what I like about this experiment. Indeed, while data science can be a powerful ally to the humanities, we don't necessarily have to abide by its rules.  
+
+Another interesting aspect of this experiment, is that the map reveals a *Levante* that is completely integrated with the rest of Europe and the Mediterranean. It also highlights the centrality of Edirne in the political geography of the Ottoman Empire. Moreover, Spain's most relevant city in the map is neither Madrid nor the Escorial, but Naples. Last but not the least, Islands and small city-states such as Ragusa seem to have in important role mediating between the different powers of the region.  
 
 
-#The code
-In order to obtain the data, you can request it to the MIA server using python.
+# How to request data from MIA
+Although MIA is an outstanding collaborative tool for researchers, the data it stores in its servers is not easily accessible. Its back-end, for example, is not published in public repositories. However, you can still obtain the data by registering to MIA and doing requests it to the server using python.
 
 ### Request
 ```python
