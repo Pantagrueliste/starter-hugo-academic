@@ -6,7 +6,7 @@ subtitle: "What was the Levante associated with in 16th-century Florence?"
 summary: "The Levante is an elusive toponym, as it is usually defined in relation with--or in opposition to--another territory. What was then Tuscany's Levante in the 16th century? The data that I gathered from the MIA database gives an unexpected answer."
 authors: [Admin]
 tags: [MAP, avviso]
-categories: [MAP]
+categories: [Notes]
 date: 2022-10-29T10:02:52-05:00
 lastmod: 2022-10-29T10:02:52-05:00
 featured: true
