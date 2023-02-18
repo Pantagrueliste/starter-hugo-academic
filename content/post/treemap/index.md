@@ -35,8 +35,6 @@ tags:
 - Digital Humanities
 - Data Visualization
 - Archival Research
-- Current Research
-- Filippo Cavriana
 
 categories:
 - Notes
