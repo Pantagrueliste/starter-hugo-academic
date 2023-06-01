@@ -12,7 +12,7 @@ projects: [Filippo Cavriana's Secret Correspondence, 1568—1589.]
 date: "2021-05-24T16:00:00Z"
 
 # Date updated
-lastmod: "2021-06-01T15:32:00Z"
+lastmod: "2021-05-24T16:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -41,7 +41,7 @@ categories:
 - Notes
 ---
 
-# The Problem 
+# The Problem
 Historical archives can be dauntingly messy. The *Mediceo del Principato* at the [State Archives of Florence](https://www.archiviodistato.firenze.it/asfi/home) is a case in point. Indeed, only a small part of it is inventoried, and many of its documents are scattered through more than 6,500 volumes for no apparent reason. To further complicate things, the archives only let you consult a limited number of volumes (or *filze* as they call them). In normal times, the limit is set to 4 *filze* per day. In times of pandemic, however, that number has gone down to 4 every two weeks. In the absence of detailed inventories, the archive's considerable size forces researchers to devise strategies in order to quickly find the documents they are looking for.
 
 # The Solution

@@ -101,14 +101,14 @@ BibTex: @incollection{bayle2009,
 ```
 
 ### Results
-The {{< hl >}}[results](https://github.com/Pantagrueliste/m-k-manuscript-data/blob/master/bibliographies/essays/EssaysBibliography.bib) are striking, with more than 2,000 bibliographic references converted in a matter of days.{{< /hl >}} Not only did this approach accurately reproduce the pattern exposed in my input prompt, but it also correctly added entry  and field types that were not included in the input prompt. `GPT-3`, in other words is perfectly fluent in `BibTeX`. Perhaps more surprisingly for a model essentially trained in English, it recognized all the languages (Russian, French, Italian, Latin, Greek, German, Spanish, etc) adding everytime the correct `langid` field.
+The {{< hl >}}[results](https://github.com/Pantagrueliste/m-k-manuscript-data/blob/master/bibliographies/essays/EssaysBibliography.bib) are striking, with more than 2,000 bibliographic references converted in a matter of days.{{< /hl >}} Not only did this approach accurately reproduce the pattern exposed in my input prompt, but it also correctly added entry and field types that were not included in the input prompt. `GPT-3`, in other words is perfectly fluent in `BibTeX`. Perhaps more surprisingly for a model essentially trained in English, it recognized all the languages (Russian, French, Italian, Latin, Greek, German, Spanish, etc) adding everytime the correct `langid` field.
 
 {{% callout note %}}
 GPT-3 currently has limited input and output sizes, as it can process a maximum 2048 linguistic tokens. As soon as this limitation will be lifted, the same task would probably take one hour or less.
 {{% /callout %}}
 
 Somewhat undexpectedly, GPT-3 also added information that was not in the original references. 
->Baillot, Anne, and Anna Busch. “Editing for Man and Machine.” In _Users of Scholarly Editions: Editorial Anticipations of Reading, Studying and Consulting_, Vol. 13. Variants (Journal of the European Society for Textual Scholarship). Leicester, 2015. 
+>Baillot, Anne, and Anna Busch. “Editing for Man and Machine.” In _Users of Scholarly Editions: Editorial Anticipations of Reading, Studying and Consulting_, Vol. 13. Variants (Journal of the European Society for Textual Scholarship). Leicester, 2015. 
 
 In this bibliographic reference, for example, GPT-3 added the permanent link to the open-access repository ([HAL](https://hal.archives-ouvertes.fr)) where the paper can be read, including the ad-hoc fields `HAL_ID` and `HAL_VERSION` created by the HAL repository: 
 ```BibTeX
@@ -130,7 +130,7 @@ In this bibliographic reference, for example, GPT-3 added the permanent link to 
 These additions indicate that {{< hl >}}GPT-3 does not only parse the bibliographic reference, but also completes it on the grounds of what it initially learned.{{< /hl >}} It would be interesting, in that regard, to see if it behaves similarly with references dating after GPT-3's training...
 
 ## Limitations
-GPT-3 is not perfect, however, and always needs to be supervised. One of its known limitations is [hallucination](https://arxiv.org/abs/2005.00661), as it sometimes invent things and makes some improbable assumptions. 
+GPT-3 is not perfect, however. It needs to be supervised by a human. One of its known limitations is [hallucination](https://arxiv.org/abs/2005.00661), as it sometimes invent things and makes some improbable assumptions. 
 
 In my experiment, GPT-3's bouts of incoherence were manifest when it spontaneously changed an author's patronym from "Ruscelli" to "Ruscello." This is technically not a mistake, since early modern Italian patronyms could be used in the plural or singular indistinctly. However, today's convention is that if a patronym is in plural or singular, you should keep it as it is. Today, nobody would call Machiavelli Machiavello, just as we are expected to use the name Rossello instead of Rosselli. Has GPT-3 ignored this convention, because of a lack of chronological consciousness? Or is it because GPT-3 made an assumption on the grounds of neighboring patronyms, which in this part of the bibliography all happen to be inflected in singular (Bariletto, Cesano, Rossello)?
 Who knows.
