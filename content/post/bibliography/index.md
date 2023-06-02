@@ -61,7 +61,7 @@ Gabler, Hans Walter. “Theorizing the Digital Scholarly Edition.” *Literature
 Findlen, Paula. *Possessing Nature: Museums, Collecting, and Scientific Culture in Early Modern Italy*. Berkeley: University of California Press, 1994.
 
 ```BibTeX
-BibTex: @incollection{bayle2009,
+@incollection{bayle2009,
   author = {Bayle, Ariane},
   booktitle = {Vulgariser la médecine. Du style médical en France et en Italie},
   title = {Patients exemplaires: la correspondance médicale de Fioravanti},
