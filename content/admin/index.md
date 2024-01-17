@@ -22,7 +22,7 @@ organizations:
   url: https://www.st-andrews.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include early modern history, Italian literature and the digital humanities.
+bio: My research interests include early modern history, European literature and the digital humanities.
 
 # Interests to show in About widget
 interests:
