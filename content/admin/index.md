@@ -14,12 +14,12 @@ title: Clément Godbarge
 superuser: true
 
 # Role/position/tagline
-role: NEH Senior Fellow 
+role: Lecturer 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Medici Archive Project
-  url: https://www.medici.org
+- name: University of St Andrews
+  url: https://www.st-andrews.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include early modern history, Italian literature and the digital humanities.
